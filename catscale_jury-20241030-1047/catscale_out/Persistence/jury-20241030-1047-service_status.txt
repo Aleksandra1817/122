@@ -1,0 +1,24 @@
+This file might be empty as Latest versions of Red Hat, Fedora and Centos do not use service command. If this is empty please review systemctl file. 
+ [ - ]  anacron
+ [ - ]  apache-htcacheclean
+ [ - ]  apache2
+ [ - ]  bluetooth
+ [ - ]  cgroupfs-mount
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  dbus
+ [ + ]  docker
+ [ - ]  hwclock.sh
+ [ - ]  irqbalance
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  netfilter-persistent
+ [ + ]  networking
+ [ + ]  nginx
+ [ + ]  procps
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ + ]  ssh
+ [ - ]  sudo
+ [ + ]  udev
+ [ + ]  unattended-upgrades

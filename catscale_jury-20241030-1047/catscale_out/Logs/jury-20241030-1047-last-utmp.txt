@@ -1,0 +1,6 @@
+admin    pts/0        Wed Oct 30 10:36:50 2024   still logged in                       192.168.56.108
+root     tty1         Wed Oct 30 10:13:43 2024   still logged in                       0.0.0.0
+runlevel (to lvl 5)   Wed Oct 30 10:10:46 2024   still running                         0.0.0.0
+reboot   system boot  Wed Oct 30 10:10:42 2024   still running                         0.0.0.0
+
+utmp begins Wed Oct 30 10:10:42 2024

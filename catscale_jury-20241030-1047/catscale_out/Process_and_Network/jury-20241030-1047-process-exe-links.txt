@@ -1,0 +1,74 @@
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/109/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/10/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/110/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/111/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/113/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/115/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/11/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/12/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/13/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/141/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/14/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/150/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/151/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/15/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/16/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/178/exe -> /lib/systemd/systemd-journald
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/17/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/182/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/18/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/192/exe -> /lib/systemd/systemd-udevd
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/19/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/1/exe -> /lib/systemd/systemd
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/21/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/22/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/23/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/241/exe -> /lib/systemd/systemd-timesyncd
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/24/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/25/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/26/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/27/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/28/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/29/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/2/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/348/exe -> /usr/bin/dbus-daemon
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/352/exe -> /usr/sbin/cron
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/357/exe -> /lib/systemd/systemd-logind
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/358/exe -> /usr/sbin/rsyslogd
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/377/exe -> /usr/bin/containerd
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/383/exe -> /usr/sbin/sshd
+lrwxrwxrwx 1 root     root     0 окт 30 10:10 /proc/384/exe -> /usr/bin/dockerd-ce
+lrwxrwxrwx 1 root     root     0 окт 30 10:14 /proc/388/exe -> /sbin/dhclient
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/3/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/400/exe -> /usr/sbin/nginx
+lrwxrwxrwx 1 www-data www-data 0 окт 30 10:47 /proc/401/exe -> /usr/sbin/nginx
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/41/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/42/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:13 /proc/578/exe -> /bin/login
+lrwxrwxrwx 1 root     root     0 окт 30 10:13 /proc/583/exe -> /lib/systemd/systemd
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/584/exe -> /lib/systemd/systemd
+lrwxrwxrwx 1 root     root     0 окт 30 10:13 /proc/587/exe -> /bin/bash
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/5/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:24 /proc/669/exe -> /bin/su
+lrwxrwxrwx 1 admin    admin    0 окт 30 10:47 /proc/670/exe -> /bin/bash
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/6/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:36 /proc/701/exe -> /usr/sbin/sshd
+lrwxrwxrwx 1 admin    admin    0 окт 30 10:36 /proc/703/exe -> /lib/systemd/systemd
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/704/exe -> /lib/systemd/systemd
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/710/exe -> /usr/sbin/sshd
+lrwxrwxrwx 1 admin    admin    0 окт 30 10:47 /proc/711/exe -> /bin/bash
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/71/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/720/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/72/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/73/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/74/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/758/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/75/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/784/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/786/exe -> /usr/bin/sudo
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/787/exe -> /bin/bash
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/79/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/7/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/830/exe -> /usr/bin/xargs
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/8/exe
+lrwxrwxrwx 1 root     root     0 окт 30 10:47 /proc/9/exe

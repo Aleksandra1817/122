@@ -1,0 +1,8 @@
+<?php
+### This file is part of the dictionaries-common package.
+### It has been automatically generated.
+### DO NOT EDIT!
+$SQSPELL_APP = array (
+  'Russian (aspell)' => 'aspell -a -d ru -w бвчздеіцъйклмнопртуфхжигюыэшщяьасБВЧЗДЕЈЦЪЙКЛМНОПРТУФХЖИГЮЫЭШЩЯЬАС  ',
+  'Russian koi8-r (ispell)' => 'ispell -a -d russian -w бвчздеіцъйклмнопртуфхжигюыэшщяьасБВЧЗДЕЈЦЪЙКЛМНОПРТУФХЖИГЮЫЭШЩЯЬАС  '
+);

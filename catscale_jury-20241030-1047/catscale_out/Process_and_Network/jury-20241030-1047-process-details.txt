@@ -1,0 +1,3140 @@
+Name:	systemd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	1
+Ngid:	0
+Pid:	1
+PPid:	0
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	1
+NSpid:	1
+NSpgid:	1
+NSsid:	1
+VmPeak:	   58472 kB
+VmSize:	   56856 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    6604 kB
+VmRSS:	    6592 kB
+RssAnon:	    1388 kB
+RssFile:	    5204 kB
+RssShmem:	       0 kB
+VmData:	     996 kB
+VmStk:	     132 kB
+VmExe:	     948 kB
+VmLib:	    6820 kB
+VmPTE:	     128 kB
+VmPMD:	      16 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	7be3c0fe28014a03
+SigIgn:	0000000000001000
+SigCgt:	00000001800004ec
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2249
+nonvoluntary_ctxt_switches:	472
+Name:	kthreadd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	2
+Ngid:	0
+Pid:	2
+PPid:	0
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	2
+NSpid:	2
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	100
+nonvoluntary_ctxt_switches:	0
+Name:	ksoftirqd/0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	3
+Ngid:	0
+Pid:	3
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	3
+NSpid:	3
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1523
+nonvoluntary_ctxt_switches:	87
+Name:	kworker/0:0H
+Umask:	0000
+State:	S (sleeping)
+Tgid:	5
+Ngid:	0
+Pid:	5
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	5
+NSpid:	5
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	7
+nonvoluntary_ctxt_switches:	0
+Name:	kworker/u2:0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	6
+Ngid:	0
+Pid:	6
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	6
+NSpid:	6
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	531
+nonvoluntary_ctxt_switches:	9
+Name:	rcu_sched
+Umask:	0000
+State:	S (sleeping)
+Tgid:	7
+Ngid:	0
+Pid:	7
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	7
+NSpid:	7
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	3413
+nonvoluntary_ctxt_switches:	2
+Name:	rcu_bh
+Umask:	0000
+State:	S (sleeping)
+Tgid:	8
+Ngid:	0
+Pid:	8
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	8
+NSpid:	8
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	migration/0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	9
+Ngid:	0
+Pid:	9
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	9
+NSpid:	9
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	4
+nonvoluntary_ctxt_switches:	0
+Name:	lru-add-drain
+Umask:	0000
+State:	S (sleeping)
+Tgid:	10
+Ngid:	0
+Pid:	10
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	10
+NSpid:	10
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	watchdog/0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	11
+Ngid:	0
+Pid:	11
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	11
+NSpid:	11
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	559
+nonvoluntary_ctxt_switches:	0
+Name:	cpuhp/0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	12
+Ngid:	0
+Pid:	12
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	12
+NSpid:	12
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	7
+nonvoluntary_ctxt_switches:	0
+Name:	kdevtmpfs
+Umask:	0022
+State:	S (sleeping)
+Tgid:	13
+Ngid:	0
+Pid:	13
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	13
+NSpid:	13
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	135
+nonvoluntary_ctxt_switches:	1
+Name:	netns
+Umask:	0000
+State:	S (sleeping)
+Tgid:	14
+Ngid:	0
+Pid:	14
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	14
+NSpid:	14
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	khungtaskd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	15
+Ngid:	0
+Pid:	15
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	15
+NSpid:	15
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	20
+nonvoluntary_ctxt_switches:	0
+Name:	oom_reaper
+Umask:	0000
+State:	S (sleeping)
+Tgid:	16
+Ngid:	0
+Pid:	16
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	16
+NSpid:	16
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	writeback
+Umask:	0000
+State:	S (sleeping)
+Tgid:	17
+Ngid:	0
+Pid:	17
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	17
+NSpid:	17
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kcompactd0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	18
+Ngid:	0
+Pid:	18
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	18
+NSpid:	18
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	ksmd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	19
+Ngid:	0
+Pid:	19
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	19
+NSpid:	19
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	khugepaged
+Umask:	0000
+State:	S (sleeping)
+Tgid:	21
+Ngid:	0
+Pid:	21
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	21
+NSpid:	21
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	crypto
+Umask:	0000
+State:	S (sleeping)
+Tgid:	22
+Ngid:	0
+Pid:	22
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	22
+NSpid:	22
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kintegrityd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	23
+Ngid:	0
+Pid:	23
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	23
+NSpid:	23
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	bioset
+Umask:	0000
+State:	S (sleeping)
+Tgid:	24
+Ngid:	0
+Pid:	24
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	24
+NSpid:	24
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kblockd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	25
+Ngid:	0
+Pid:	25
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	25
+NSpid:	25
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	devfreq_wq
+Umask:	0000
+State:	S (sleeping)
+Tgid:	26
+Ngid:	0
+Pid:	26
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	26
+NSpid:	26
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	watchdogd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	27
+Ngid:	0
+Pid:	27
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	27
+NSpid:	27
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kswapd0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	28
+Ngid:	0
+Pid:	28
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	28
+NSpid:	28
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	3
+nonvoluntary_ctxt_switches:	0
+Name:	vmstat
+Umask:	0000
+State:	S (sleeping)
+Tgid:	29
+Ngid:	0
+Pid:	29
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	29
+NSpid:	29
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kthrotld
+Umask:	0000
+State:	S (sleeping)
+Tgid:	41
+Ngid:	0
+Pid:	41
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	41
+NSpid:	41
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	ipv6_addrconf
+Umask:	0000
+State:	S (sleeping)
+Tgid:	42
+Ngid:	0
+Pid:	42
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	42
+NSpid:	42
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	ata_sff
+Umask:	0000
+State:	S (sleeping)
+Tgid:	71
+Ngid:	0
+Pid:	71
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	71
+NSpid:	71
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	scsi_eh_0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	72
+Ngid:	0
+Pid:	72
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	72
+NSpid:	72
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	4
+nonvoluntary_ctxt_switches:	0
+Name:	scsi_tmf_0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	73
+Ngid:	0
+Pid:	73
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	73
+NSpid:	73
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	scsi_eh_1
+Umask:	0000
+State:	S (sleeping)
+Tgid:	74
+Ngid:	0
+Pid:	74
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	74
+NSpid:	74
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	44
+nonvoluntary_ctxt_switches:	0
+Name:	scsi_tmf_1
+Umask:	0000
+State:	S (sleeping)
+Tgid:	75
+Ngid:	0
+Pid:	75
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	75
+NSpid:	75
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kworker/u2:1
+Umask:	0000
+State:	S (sleeping)
+Tgid:	79
+Ngid:	0
+Pid:	79
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	79
+NSpid:	79
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	813
+nonvoluntary_ctxt_switches:	20
+Name:	bioset
+Umask:	0000
+State:	S (sleeping)
+Tgid:	109
+Ngid:	0
+Pid:	109
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	109
+NSpid:	109
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	scsi_eh_2
+Umask:	0000
+State:	S (sleeping)
+Tgid:	110
+Ngid:	0
+Pid:	110
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	110
+NSpid:	110
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	26
+nonvoluntary_ctxt_switches:	0
+Name:	scsi_tmf_2
+Umask:	0000
+State:	S (sleeping)
+Tgid:	111
+Ngid:	0
+Pid:	111
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	111
+NSpid:	111
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kworker/0:1H
+Umask:	0000
+State:	S (sleeping)
+Tgid:	113
+Ngid:	0
+Pid:	113
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	113
+NSpid:	113
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	3173
+nonvoluntary_ctxt_switches:	0
+Name:	bioset
+Umask:	0000
+State:	S (sleeping)
+Tgid:	115
+Ngid:	0
+Pid:	115
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	115
+NSpid:	115
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	kworker/u3:0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	141
+Ngid:	0
+Pid:	141
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	141
+NSpid:	141
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	jbd2/sda1-8
+Umask:	0000
+State:	S (sleeping)
+Tgid:	150
+Ngid:	0
+Pid:	150
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	150
+NSpid:	150
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	176
+nonvoluntary_ctxt_switches:	1
+Name:	ext4-rsv-conver
+Umask:	0000
+State:	S (sleeping)
+Tgid:	151
+Ngid:	0
+Pid:	151
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	151
+NSpid:	151
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	systemd-journal
+Umask:	0022
+State:	S (sleeping)
+Tgid:	178
+Ngid:	0
+Pid:	178
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	178
+NSpid:	178
+NSpgid:	178
+NSsid:	178
+VmPeak:	   48652 kB
+VmSize:	   48652 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4616 kB
+VmRSS:	    4616 kB
+RssAnon:	     496 kB
+RssFile:	    3588 kB
+RssShmem:	     532 kB
+VmData:	    8516 kB
+VmStk:	     132 kB
+VmExe:	     108 kB
+VmLib:	    5912 kB
+VmPTE:	      92 kB
+VmPMD:	      16 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000400004a02
+SigIgn:	0000000000001000
+SigCgt:	0000000180000040
+CapInh:	0000000000000000
+CapPrm:	00000025402800cf
+CapEff:	00000025402800cf
+CapBnd:	00000025402800cf
+CapAmb:	0000000000000000
+Seccomp:	2
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	302
+nonvoluntary_ctxt_switches:	485
+Name:	kauditd
+Umask:	0000
+State:	S (sleeping)
+Tgid:	182
+Ngid:	0
+Pid:	182
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	182
+NSpid:	182
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+Name:	systemd-udevd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	192
+Ngid:	0
+Pid:	192
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	192
+NSpid:	192
+NSpgid:	192
+NSsid:	192
+VmPeak:	   46048 kB
+VmSize:	   46048 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4184 kB
+VmRSS:	    4184 kB
+RssAnon:	    1308 kB
+RssFile:	    2876 kB
+RssShmem:	       0 kB
+VmData:	    1240 kB
+VmStk:	     132 kB
+VmExe:	     412 kB
+VmLib:	    3108 kB
+VmPTE:	      96 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000014003
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	2
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	137
+nonvoluntary_ctxt_switches:	607
+Name:	systemd-timesyn
+Umask:	0022
+State:	S (sleeping)
+Tgid:	241
+Ngid:	0
+Pid:	241
+PPid:	1
+TracerPid:	0
+Uid:	100	100	100	100
+Gid:	102	102	102	102
+FDSize:	64
+Groups:	 
+NStgid:	241
+NSpid:	241
+NSpgid:	241
+NSsid:	241
+VmPeak:	  188608 kB
+VmSize:	  127284 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4036 kB
+VmRSS:	    4036 kB
+RssAnon:	     492 kB
+RssFile:	    3544 kB
+RssShmem:	       0 kB
+VmData:	    8716 kB
+VmStk:	     132 kB
+VmExe:	      32 kB
+VmLib:	    7240 kB
+VmPTE:	     128 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	2
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000004002
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000000002000000
+CapEff:	0000000002000000
+CapBnd:	0000000002000000
+CapAmb:	0000000000000000
+Seccomp:	2
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	313
+nonvoluntary_ctxt_switches:	1935
+Name:	dbus-daemon
+Umask:	0022
+State:	S (sleeping)
+Tgid:	348
+Ngid:	0
+Pid:	348
+PPid:	1
+TracerPid:	0
+Uid:	106	106	106	106
+Gid:	110	110	110	110
+FDSize:	64
+Groups:	 
+NStgid:	348
+NSpid:	348
+NSpgid:	348
+NSsid:	348
+VmPeak:	   45124 kB
+VmSize:	   45120 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3616 kB
+VmRSS:	    3616 kB
+RssAnon:	     444 kB
+RssFile:	    3172 kB
+RssShmem:	       0 kB
+VmData:	     544 kB
+VmStk:	     132 kB
+VmExe:	     212 kB
+VmLib:	    5232 kB
+VmPTE:	     108 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180004001
+CapInh:	0000000000000000
+CapPrm:	0000000020000000
+CapEff:	0000000020000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	354
+nonvoluntary_ctxt_switches:	216
+Name:	cron
+Umask:	0022
+State:	S (sleeping)
+Tgid:	352
+Ngid:	0
+Pid:	352
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	352
+NSpid:	352
+NSpgid:	352
+NSsid:	352
+VmPeak:	   29668 kB
+VmSize:	   29664 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    2764 kB
+VmRSS:	    2764 kB
+RssAnon:	     280 kB
+RssFile:	    2484 kB
+RssShmem:	       0 kB
+VmData:	     340 kB
+VmStk:	     132 kB
+VmExe:	      44 kB
+VmLib:	    2856 kB
+VmPTE:	      80 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000000
+SigCgt:	0000000180010001
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	52
+nonvoluntary_ctxt_switches:	20
+Name:	systemd-logind
+Umask:	0022
+State:	S (sleeping)
+Tgid:	357
+Ngid:	0
+Pid:	357
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	357
+NSpid:	357
+NSpgid:	357
+NSsid:	357
+VmPeak:	   46552 kB
+VmSize:	   46496 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4616 kB
+VmRSS:	    4616 kB
+RssAnon:	     584 kB
+RssFile:	    4032 kB
+RssShmem:	       0 kB
+VmData:	     448 kB
+VmStk:	     132 kB
+VmExe:	     188 kB
+VmLib:	    6104 kB
+VmPTE:	     104 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000200000001
+SigIgn:	0000000400001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	000000024420002f
+CapEff:	000000024420002f
+CapBnd:	000000024420002f
+CapAmb:	0000000000000000
+Seccomp:	2
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	275
+nonvoluntary_ctxt_switches:	106
+Name:	rsyslogd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	358
+Ngid:	0
+Pid:	358
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	358
+NSpid:	358
+NSpgid:	358
+NSsid:	358
+VmPeak:	  250112 kB
+VmSize:	  250112 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3252 kB
+VmRSS:	    3252 kB
+RssAnon:	     720 kB
+RssFile:	    2532 kB
+RssShmem:	       0 kB
+VmData:	   18184 kB
+VmStk:	     132 kB
+VmExe:	     596 kB
+VmLib:	    2340 kB
+VmPTE:	     112 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	4
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000001001206
+SigCgt:	0000000180114801
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	27
+nonvoluntary_ctxt_switches:	16
+Name:	containerd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	377
+Ngid:	0
+Pid:	377
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	377
+NSpid:	377
+NSpgid:	377
+NSsid:	377
+VmPeak:	  463104 kB
+VmSize:	  463104 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   39552 kB
+VmRSS:	   39232 kB
+RssAnon:	   15360 kB
+RssFile:	   23872 kB
+RssShmem:	       0 kB
+VmData:	   74172 kB
+VmStk:	     132 kB
+VmExe:	   30636 kB
+VmLib:	    2256 kB
+VmPTE:	     212 kB
+VmPMD:	      24 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	9
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffe3bfa2800
+SigIgn:	0000000000000000
+SigCgt:	ffffffffffc1feff
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	263
+nonvoluntary_ctxt_switches:	73
+Name:	sshd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	383
+Ngid:	0
+Pid:	383
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	383
+NSpid:	383
+NSpgid:	383
+NSsid:	383
+VmPeak:	   69976 kB
+VmSize:	   69952 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    6208 kB
+VmRSS:	    6208 kB
+RssAnon:	     772 kB
+RssFile:	    5436 kB
+RssShmem:	       0 kB
+VmData:	     784 kB
+VmStk:	     132 kB
+VmExe:	     756 kB
+VmLib:	    8624 kB
+VmPTE:	     152 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180014005
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	22
+nonvoluntary_ctxt_switches:	26
+Name:	dockerd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	384
+Ngid:	0
+Pid:	384
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	384
+NSpid:	384
+NSpgid:	384
+NSsid:	384
+VmPeak:	  492440 kB
+VmSize:	  437340 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   64932 kB
+VmRSS:	   64732 kB
+RssAnon:	   27292 kB
+RssFile:	   37440 kB
+RssShmem:	       0 kB
+VmData:	   72680 kB
+VmStk:	     132 kB
+VmExe:	   46800 kB
+VmLib:	    4760 kB
+VmPTE:	     296 kB
+VmPMD:	      24 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	8
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffe3bfa2800
+SigIgn:	0000000000000000
+SigCgt:	ffffffffffc1feff
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	416
+nonvoluntary_ctxt_switches:	143
+Name:	dhclient
+Umask:	0022
+State:	S (sleeping)
+Tgid:	388
+Ngid:	0
+Pid:	388
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	388
+NSpid:	388
+NSpgid:	388
+NSsid:	388
+VmPeak:	   20352 kB
+VmSize:	   20352 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    2916 kB
+VmRSS:	    2916 kB
+RssAnon:	    1028 kB
+RssFile:	    1888 kB
+RssShmem:	       0 kB
+VmData:	     920 kB
+VmStk:	     132 kB
+VmExe:	     464 kB
+VmLib:	    6380 kB
+VmPTE:	      48 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	53
+nonvoluntary_ctxt_switches:	16
+Name:	nginx
+Umask:	0000
+State:	S (sleeping)
+Tgid:	400
+Ngid:	0
+Pid:	400
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	400
+NSpid:	400
+NSpgid:	400
+NSsid:	400
+VmPeak:	  159532 kB
+VmSize:	  159532 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    1624 kB
+VmRSS:	    1624 kB
+RssAnon:	    1576 kB
+RssFile:	      48 kB
+RssShmem:	       0 kB
+VmData:	    1660 kB
+VmStk:	     132 kB
+VmExe:	     932 kB
+VmLib:	   45716 kB
+VmPTE:	     244 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000040001000
+SigCgt:	0000000198016a07
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1
+nonvoluntary_ctxt_switches:	4
+Name:	nginx
+Umask:	0000
+State:	S (sleeping)
+Tgid:	401
+Ngid:	0
+Pid:	401
+PPid:	400
+TracerPid:	0
+Uid:	33	33	33	33
+Gid:	33	33	33	33
+FDSize:	64
+Groups:	33 
+NStgid:	401
+NSpid:	401
+NSpgid:	400
+NSsid:	400
+VmPeak:	  159868 kB
+VmSize:	  159868 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3304 kB
+VmRSS:	    3304 kB
+RssAnon:	    1804 kB
+RssFile:	    1500 kB
+RssShmem:	       0 kB
+VmData:	    1996 kB
+VmStk:	     132 kB
+VmExe:	     932 kB
+VmLib:	   45716 kB
+VmPTE:	     248 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000040001000
+SigCgt:	0000000198016a07
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1
+nonvoluntary_ctxt_switches:	4
+Name:	login
+Umask:	0022
+State:	S (sleeping)
+Tgid:	578
+Ngid:	0
+Pid:	578
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	0 
+NStgid:	578
+NSpid:	578
+NSpgid:	578
+NSsid:	578
+VmPeak:	   72016 kB
+VmSize:	   71884 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3300 kB
+VmRSS:	    3300 kB
+RssAnon:	     532 kB
+RssFile:	    2768 kB
+RssShmem:	       0 kB
+VmData:	     648 kB
+VmStk:	     132 kB
+VmExe:	      44 kB
+VmLib:	    3396 kB
+VmPTE:	     164 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000002
+SigCgt:	0000000180002000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	10
+nonvoluntary_ctxt_switches:	43
+Name:	systemd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	583
+Ngid:	0
+Pid:	583
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	583
+NSpid:	583
+NSpgid:	583
+NSsid:	583
+VmPeak:	   56404 kB
+VmSize:	   56396 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    6036 kB
+VmRSS:	    6036 kB
+RssAnon:	     780 kB
+RssFile:	    5256 kB
+RssShmem:	       0 kB
+VmData:	     536 kB
+VmStk:	     132 kB
+VmExe:	     948 kB
+VmLib:	    6820 kB
+VmPTE:	     124 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	7be3c0fe28014a03
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	29
+nonvoluntary_ctxt_switches:	27
+Name:	(sd-pam)
+Umask:	0022
+State:	S (sleeping)
+Tgid:	584
+Ngid:	0
+Pid:	584
+PPid:	583
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	584
+NSpid:	584
+NSpgid:	583
+NSsid:	583
+VmPeak:	   84440 kB
+VmSize:	   84440 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    1548 kB
+VmRSS:	    1548 kB
+RssAnon:	    1516 kB
+RssFile:	      32 kB
+RssShmem:	       0 kB
+VmData:	    1320 kB
+VmStk:	     132 kB
+VmExe:	     948 kB
+VmLib:	    7428 kB
+VmPTE:	     172 kB
+VmPMD:	      16 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1
+nonvoluntary_ctxt_switches:	2
+Name:	bash
+Umask:	0022
+State:	S (sleeping)
+Tgid:	587
+Ngid:	0
+Pid:	587
+PPid:	578
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	0 
+NStgid:	587
+NSpid:	587
+NSpgid:	587
+NSsid:	578
+VmPeak:	   21544 kB
+VmSize:	   21544 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    5296 kB
+VmRSS:	    5296 kB
+RssAnon:	    1900 kB
+RssFile:	    3396 kB
+RssShmem:	       0 kB
+VmData:	    1872 kB
+VmStk:	     132 kB
+VmExe:	    1024 kB
+VmLib:	    2124 kB
+VmPTE:	      64 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000010000
+SigIgn:	0000000000380004
+SigCgt:	000000004b817efb
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	78
+nonvoluntary_ctxt_switches:	22
+Name:	su
+Umask:	0022
+State:	S (sleeping)
+Tgid:	669
+Ngid:	0
+Pid:	669
+PPid:	587
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	1001	1001	1001	1001
+FDSize:	256
+Groups:	27 1001 
+NStgid:	669
+NSpid:	669
+NSpgid:	669
+NSsid:	578
+VmPeak:	   55012 kB
+VmSize:	   55008 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3384 kB
+VmRSS:	    3384 kB
+RssAnon:	     432 kB
+RssFile:	    2952 kB
+RssShmem:	       0 kB
+VmData:	     628 kB
+VmStk:	     132 kB
+VmExe:	      36 kB
+VmLib:	    3320 kB
+VmPTE:	     128 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	fffffffe7ffb9eff
+SigIgn:	0000000000000000
+SigCgt:	0000000180004000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	5
+nonvoluntary_ctxt_switches:	9
+Name:	bash
+Umask:	0022
+State:	S (sleeping)
+Tgid:	670
+Ngid:	0
+Pid:	670
+PPid:	669
+TracerPid:	0
+Uid:	1001	1001	1001	1001
+Gid:	1001	1001	1001	1001
+FDSize:	256
+Groups:	27 1001 
+NStgid:	670
+NSpid:	670
+NSpgid:	670
+NSsid:	578
+VmPeak:	   21340 kB
+VmSize:	   21340 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    5248 kB
+VmRSS:	    5248 kB
+RssAnon:	    1884 kB
+RssFile:	    3364 kB
+RssShmem:	       0 kB
+VmData:	    1860 kB
+VmStk:	     132 kB
+VmExe:	    1024 kB
+VmLib:	    2124 kB
+VmPTE:	      60 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000380004
+SigCgt:	000000004b817efb
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	26
+nonvoluntary_ctxt_switches:	8
+Name:	sshd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	701
+Ngid:	0
+Pid:	701
+PPid:	383
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	701
+NSpid:	701
+NSpgid:	701
+NSsid:	701
+VmPeak:	   99348 kB
+VmSize:	   99344 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    6876 kB
+VmRSS:	    6876 kB
+RssAnon:	     988 kB
+RssFile:	    5888 kB
+RssShmem:	       0 kB
+VmData:	    1040 kB
+VmStk:	     132 kB
+VmExe:	     756 kB
+VmLib:	    9060 kB
+VmPTE:	     208 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000001001000
+SigCgt:	0000000180004003
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	11
+nonvoluntary_ctxt_switches:	20
+Name:	systemd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	703
+Ngid:	0
+Pid:	703
+PPid:	1
+TracerPid:	0
+Uid:	1001	1001	1001	1001
+Gid:	1001	1001	1001	1001
+FDSize:	64
+Groups:	27 1001 
+NStgid:	703
+NSpid:	703
+NSpgid:	703
+NSsid:	703
+VmPeak:	   64844 kB
+VmSize:	   64844 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    6140 kB
+VmRSS:	    6140 kB
+RssAnon:	     804 kB
+RssFile:	    5336 kB
+RssShmem:	       0 kB
+VmData:	     592 kB
+VmStk:	     132 kB
+VmExe:	     948 kB
+VmLib:	    7012 kB
+VmPTE:	     136 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	7be3c0fe28014a03
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	3
+nonvoluntary_ctxt_switches:	30
+Name:	(sd-pam)
+Umask:	0022
+State:	S (sleeping)
+Tgid:	704
+Ngid:	0
+Pid:	704
+PPid:	703
+TracerPid:	0
+Uid:	1001	1001	1001	1001
+Gid:	1001	1001	1001	1001
+FDSize:	64
+Groups:	 
+NStgid:	704
+NSpid:	704
+NSpgid:	703
+NSsid:	703
+VmPeak:	   84440 kB
+VmSize:	   84440 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    1548 kB
+VmRSS:	    1548 kB
+RssAnon:	    1516 kB
+RssFile:	      32 kB
+RssShmem:	       0 kB
+VmData:	    1320 kB
+VmStk:	     132 kB
+VmExe:	     948 kB
+VmLib:	    7428 kB
+VmPTE:	     172 kB
+VmPMD:	      16 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	1
+nonvoluntary_ctxt_switches:	2
+Name:	sshd
+Umask:	0022
+State:	S (sleeping)
+Tgid:	710
+Ngid:	0
+Pid:	710
+PPid:	701
+TracerPid:	0
+Uid:	1001	1001	1001	1001
+Gid:	1001	1001	1001	1001
+FDSize:	64
+Groups:	27 1001 
+NStgid:	710
+NSpid:	710
+NSpgid:	701
+NSsid:	701
+VmPeak:	   99348 kB
+VmSize:	   99344 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    4480 kB
+VmRSS:	    4480 kB
+RssAnon:	     980 kB
+RssFile:	    3500 kB
+RssShmem:	       0 kB
+VmData:	    1040 kB
+VmStk:	     132 kB
+VmExe:	     756 kB
+VmLib:	    9060 kB
+VmPTE:	     204 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000180010000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	161
+nonvoluntary_ctxt_switches:	34
+Name:	bash
+Umask:	0022
+State:	S (sleeping)
+Tgid:	711
+Ngid:	0
+Pid:	711
+PPid:	710
+TracerPid:	0
+Uid:	1001	1001	1001	1001
+Gid:	1001	1001	1001	1001
+FDSize:	256
+Groups:	27 1001 
+NStgid:	711
+NSpid:	711
+NSpgid:	711
+NSsid:	711
+VmPeak:	   21392 kB
+VmSize:	   21328 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    5280 kB
+VmRSS:	    5280 kB
+RssAnon:	    1888 kB
+RssFile:	    3392 kB
+RssShmem:	       0 kB
+VmData:	    1848 kB
+VmStk:	     132 kB
+VmExe:	    1024 kB
+VmLib:	    2124 kB
+VmPTE:	      60 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	0/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000010000
+SigIgn:	0000000000380004
+SigCgt:	000000004b817efb
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	66
+nonvoluntary_ctxt_switches:	64
+Name:	kworker/0:1
+Umask:	0000
+State:	S (sleeping)
+Tgid:	720
+Ngid:	0
+Pid:	720
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	720
+NSpid:	720
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	3721
+nonvoluntary_ctxt_switches:	4
+Name:	kworker/0:0
+Umask:	0000
+State:	S (sleeping)
+Tgid:	758
+Ngid:	0
+Pid:	758
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	758
+NSpid:	758
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	157
+nonvoluntary_ctxt_switches:	0
+Name:	kworker/0:2
+Umask:	0000
+State:	S (sleeping)
+Tgid:	784
+Ngid:	0
+Pid:	784
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	784
+NSpid:	784
+NSpgid:	0
+NSsid:	0
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	14
+nonvoluntary_ctxt_switches:	0
+Name:	sudo
+Umask:	0022
+State:	S (sleeping)
+Tgid:	786
+Ngid:	0
+Pid:	786
+PPid:	711
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	0 
+NStgid:	786
+NSpid:	786
+NSpgid:	786
+NSsid:	711
+VmPeak:	   53672 kB
+VmSize:	   53668 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3888 kB
+VmRSS:	    3888 kB
+RssAnon:	     576 kB
+RssFile:	    3312 kB
+RssShmem:	       0 kB
+VmData:	     860 kB
+VmStk:	     132 kB
+VmExe:	     128 kB
+VmLib:	    3676 kB
+VmPTE:	     124 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000000
+SigCgt:	00000001800b7a07
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	20
+nonvoluntary_ctxt_switches:	9
+Name:	Cat-Scale.sh
+Umask:	0022
+State:	S (sleeping)
+Tgid:	787
+Ngid:	0
+Pid:	787
+PPid:	786
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	0 
+NStgid:	787
+NSpid:	787
+NSpgid:	786
+NSsid:	711
+VmPeak:	   11756 kB
+VmSize:	   11756 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    3520 kB
+VmRSS:	    3520 kB
+RssAnon:	     828 kB
+RssFile:	    2692 kB
+RssShmem:	       0 kB
+VmData:	     800 kB
+VmStk:	     132 kB
+VmExe:	    1024 kB
+VmLib:	    1932 kB
+VmPTE:	      40 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000010000
+SigBlk:	0000000000010000
+SigIgn:	0000000000000004
+SigCgt:	0000000000010002
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	34
+nonvoluntary_ctxt_switches:	38
+Name:	xargs
+Umask:	0022
+State:	S (sleeping)
+Tgid:	824
+Ngid:	0
+Pid:	824
+PPid:	787
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	0 
+NStgid:	824
+NSpid:	824
+NSpgid:	786
+NSsid:	711
+VmPeak:	    6128 kB
+VmSize:	    6128 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    1164 kB
+VmRSS:	    1164 kB
+RssAnon:	      76 kB
+RssFile:	    1088 kB
+RssShmem:	       0 kB
+VmData:	     440 kB
+VmStk:	     132 kB
+VmExe:	      64 kB
+VmLib:	    1768 kB
+VmPTE:	      36 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	1
+SigQ:	1/3898
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000000
+SigCgt:	0000000000000a00
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	4
+nonvoluntary_ctxt_switches:	0

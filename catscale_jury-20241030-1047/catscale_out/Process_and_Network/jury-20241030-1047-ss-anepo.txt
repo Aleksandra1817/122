@@ -1,0 +1,222 @@
+Netid  State      Recv-Q Send-Q Local Address:Port               Peer Address:Port              
+nl     UNCONN     768    0         0:384                    *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         0:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     768    0         4:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     4352   0         4:870                    *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         6:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         6:384                    *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         7:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         9:-283666155             *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         9:786                    *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         9:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0         9:1                      *                    sk=0 cb=0 groups=0x00000001
+nl     UNCONN     0      0         9:1                      *                    sk=0 cb=0 groups=0x00000001
+nl     UNCONN     0      0        10:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0        11:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0        12:384                    *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0        12:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0        15:-83901757              *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:-380457188             *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:1                      *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0        15:583                    *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:-1960419984            *                    sk=0 cb=0 groups=0x00000001
+nl     UNCONN     0      0        15:-1982031752            *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:703                    *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:357                    *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:703                    *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:583                    *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:-1982031752            *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:-83901757              *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:-380457188             *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:357                    *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        15:-1960419984            *                    sk=0 cb=0 groups=0x00000001
+nl     UNCONN     0      0        15:1                      *                    sk=0 cb=0 groups=0x00000002
+nl     UNCONN     0      0        16:0                      *                    sk=0 cb=0 groups=0x00000000
+nl     UNCONN     0      0        18:0                      *                    sk=0 cb=0 groups=0x00000000
+p_raw  UNCONN     0      0         *:enp0s3                 *                    users:(("dhclient",pid=388,fd=5)) ino:11597 sk:1b
+	ver:0 cpy_thresh:0 flags( running auxdata )
+u_str  LISTEN     0      128    /run/user/1001/gnupg/S.gpg-agent.extra 17407                 * 0                   users:(("systemd",pid=703,fd=23))
+ <->
+u_str  LISTEN     0      128    /run/user/1001/gnupg/S.gpg-agent 17409                 * 0                   users:(("systemd",pid=703,fd=24))
+ <->
+u_dgr  UNCONN     0      0      /run/systemd/notify 8969                  * 0                   users:(("systemd",pid=1,fd=13))
+ <->
+u_dgr  UNCONN     0      0      /run/systemd/cgroups-agent 8971                  * 0                   users:(("systemd",pid=1,fd=14))
+ <->
+u_str  LISTEN     0      128    /run/systemd/private 8975                  * 0                   users:(("systemd",pid=1,fd=17))
+ <->
+u_dgr  UNCONN     0      0      /run/systemd/journal/dev-log 8982                  * 0                   users:(("systemd-journal",pid=178,fd=5),("systemd",pid=1,fd=27))
+ <->
+u_dgr  UNCONN     0      0      /run/systemd/journal/syslog 8989                  * 0                   users:(("rsyslogd",pid=358,fd=3),("systemd",pid=1,fd=28))
+ <->
+u_str  LISTEN     0      128    /run/systemd/journal/stdout 8991                  * 0                   users:(("systemd-journal",pid=178,fd=3),("systemd",pid=1,fd=29))
+ <->
+u_dgr  UNCONN     0      0      /run/systemd/journal/socket 8993                  * 0                   users:(("systemd-journal",pid=178,fd=4),("systemd",pid=1,fd=30))
+ <->
+u_str  LISTEN     0      128    /run/containerd/containerd.sock 12348                 * 0                   users:(("containerd",pid=377,fd=6))
+ <->
+u_str  LISTEN     0      128    /var/run/docker/metrics.sock 12384                 * 0                   users:(("dockerd",pid=384,fd=3))
+ <->
+u_str  LISTEN     0      128    /run/docker/libnetwork/4ef0c7dbc4f9b9641bf4b0043e137fd6bb8d2fdd24a886088ef061e6f642b8dc.sock 12686                 * 0                   users:(("dockerd",pid=384,fd=14))
+ <->
+u_seq  LISTEN     0      128    /run/udev/control 9102                  * 0                   users:(("systemd-udevd",pid=192,fd=4),("systemd",pid=1,fd=32))
+ <->
+u_str  LISTEN     0      128    /var/run/docker.sock 10932                 * 0                   users:(("dockerd",pid=384,fd=6),("systemd",pid=1,fd=40))
+ <->
+u_str  LISTEN     0      128    /var/run/dbus/system_bus_socket 10940                 * 0                   users:(("dbus-daemon",pid=348,fd=3),("systemd",pid=1,fd=45))
+ <->
+u_str  LISTEN     0      128    /run/systemd/fsck.progress 9178                  * 0                   users:(("systemd",pid=1,fd=35))
+ <->
+u_dgr  UNCONN     0      0      /run/user/0/systemd/notify 13531                 * 0                   users:(("systemd",pid=583,fd=13))
+ <->
+u_str  LISTEN     0      128    /run/user/0/systemd/private 13535                 * 0                   users:(("systemd",pid=583,fd=16))
+ <->
+u_str  LISTEN     0      128    /run/user/0/gnupg/S.gpg-agent 13540                 * 0                   users:(("systemd",pid=583,fd=21))
+ <->
+u_str  LISTEN     0      128    /run/user/0/gnupg/S.gpg-agent.browser 13543                 * 0                   users:(("systemd",pid=583,fd=22))
+ <->
+u_str  LISTEN     0      128    /run/user/0/gnupg/S.gpg-agent.extra 13545                 * 0                   users:(("systemd",pid=583,fd=23))
+ <->
+u_str  LISTEN     0      128    /run/user/0/gnupg/S.gpg-agent.ssh 13547                 * 0                   users:(("systemd",pid=583,fd=24))
+ <->
+u_dgr  UNCONN     0      0      /run/user/1001/systemd/notify 17393                 * 0                   users:(("systemd",pid=703,fd=13))
+ <->
+u_str  LISTEN     0      128    /run/user/1001/systemd/private 17397                 * 0                   users:(("systemd",pid=703,fd=16))
+ <->
+u_str  LISTEN     0      128    /run/user/1001/gnupg/S.gpg-agent.ssh 17402                 * 0                   users:(("systemd",pid=703,fd=21))
+ <->
+u_str  LISTEN     0      128    /run/user/1001/gnupg/S.gpg-agent.browser 17405                 * 0                   users:(("systemd",pid=703,fd=22))
+ <->
+u_str  ESTAB      0      0         * 13488                 * 13490               users:(("(sd-pam",pid=584,fd=2),("(sd-pam",pid=584,fd=1),("systemd",pid=583,fd=2),("systemd",pid=583,fd=1))
+ -->
+u_dgr  UNCONN     0      0         * 12363                 * 8993                users:(("dockerd",pid=384,fd=4))
+ <->
+u_str  ESTAB      0      0         * 11213                 * 11376               users:(("cron",pid=352,fd=2),("cron",pid=352,fd=1))
+ -->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 13490                 * 13488               users:(("systemd-journal",pid=178,fd=19),("systemd",pid=1,fd=24))
+ <--
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 11376                 * 11213               users:(("systemd-journal",pid=178,fd=23),("systemd",pid=1,fd=49))
+ <--
+u_str  ESTAB      0      0         * 11833                 * 11834               users:(("sshd",pid=383,fd=2),("sshd",pid=383,fd=1))
+ -->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 11834                 * 11833               users:(("systemd-journal",pid=178,fd=24),("systemd",pid=1,fd=47))
+ <--
+u_str  ESTAB      0      0         * 12029                 * 12030               users:(("nginx",pid=400,fd=3))
+ <->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 11000                 * 10998               users:(("systemd-journal",pid=178,fd=17),("systemd",pid=1,fd=46))
+ <--
+u_str  ESTAB      0      0         * 11430                 * 11505               users:(("systemd-logind",pid=357,fd=2),("systemd-logind",pid=357,fd=1))
+ -->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 11505                 * 11430               users:(("systemd-journal",pid=178,fd=21),("systemd",pid=1,fd=53))
+ <--
+u_dgr  UNCONN     0      0         * 13413                 * 8982                users:(("login",pid=578,fd=3))
+ <->
+u_dgr  UNCONN     0      0         * 10347                 * 10346               users:(("systemd-timesyn",pid=241,fd=8))
+ <->
+u_dgr  UNCONN     0      0         * 9530                  * 8993                users:(("systemd-udevd",pid=192,fd=5))
+ <->
+u_dgr  UNCONN     0      0         * 10348                 * 10349               users:(("systemd-timesyn",pid=241,fd=9))
+ <->
+u_dgr  UNCONN     0      0         * 9535                  * 9534                users:(("systemd-udevd",pid=192,fd=8))
+ <->
+u_str  ESTAB      0      0         * 19209                 * 0                   users:(("sudo",pid=786,fd=6))
+ ---
+u_dgr  UNCONN     0      0         * 17284                 * 8982                users:(("sshd",pid=710,fd=4),("sshd",pid=701,fd=4))
+ <->
+u_dgr  UNCONN     0      0         * 9534                  * 9535                users:(("systemd-udevd",pid=192,fd=7))
+ <->
+u_dgr  UNCONN     0      0         * 19212                 * 8982                users:(("sudo",pid=786,fd=8))
+ <->
+u_dgr  UNCONN     0      0         * 10349                 * 10348               users:(("systemd-timesyn",pid=241,fd=10))
+ <->
+u_str  ESTAB      0      0         * 17419                 * 17420               users:(("sshd",pid=710,fd=5))
+ <->
+u_str  ESTAB      0      0      /var/run/dbus/system_bus_socket 11562                 * 11561               users:(("dbus-daemon",pid=348,fd=10))
+ <->
+u_str  ESTAB      0      0         * 17420                 * 17419               users:(("sshd",pid=701,fd=6))
+ <->
+u_dgr  UNCONN     0      0         * 10346                 * 10347               users:(("systemd-timesyn",pid=241,fd=7))
+ <->
+u_dgr  UNCONN     0      0         * 17396                 * 17395               users:(("systemd",pid=703,fd=15))
+ <->
+u_str  ESTAB      0      0         * 17357                 * 17362               users:(("(sd-pam",pid=704,fd=2),("(sd-pam",pid=704,fd=1),("systemd",pid=703,fd=2),("systemd",pid=703,fd=1))
+ -->
+u_dgr  UNCONN     0      0         * 17395                 * 17396               users:(("systemd",pid=703,fd=14))
+ <->
+u_dgr  UNCONN     0      0         * 15580                 * 8982                users:(("su",pid=669,fd=3))
+ <->
+u_str  ESTAB      0      0         * 11024                 * 11025               users:(("dbus-daemon",pid=348,fd=7))
+ <->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 17362                 * 17357               users:(("systemd-journal",pid=178,fd=22),("systemd",pid=1,fd=43))
+ <--
+u_str  ESTAB      0      0         * 12396                 * 12401               users:(("dockerd",pid=384,fd=10))
+ <->
+u_str  ESTAB      0      0         * 11025                 * 11024               users:(("dbus-daemon",pid=348,fd=8))
+ <->
+u_str  ESTAB      0      0      /run/containerd/containerd.sock 12394                 * 12393               users:(("containerd",pid=377,fd=7))
+ <->
+u_str  ESTAB      0      0         * 12393                 * 12394               users:(("dockerd",pid=384,fd=9))
+ <->
+u_dgr  UNCONN     0      0         * 17365                 * 8982                users:(("(sd-pam",pid=704,fd=7))
+ <->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 11908                 * 11901               users:(("systemd-journal",pid=178,fd=26),("systemd",pid=1,fd=50))
+ <--
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 10301                 * 10296               users:(("systemd-journal",pid=178,fd=20),("systemd",pid=1,fd=42))
+ <--
+u_str  ESTAB      0      0         * 11738                 * 11741               users:(("containerd",pid=377,fd=2),("containerd",pid=377,fd=1))
+ -->
+u_dgr  UNCONN     0      0         * 10813                 * 8982                users:(("dhclient",pid=388,fd=3))
+ <->
+u_dgr  UNCONN     0      0         * 13498                 * 8982                users:(("(sd-pam",pid=584,fd=7))
+ <->
+u_dgr  UNCONN     0      0         * 11582                 * 0                   users:(("rsyslogd",pid=358,fd=5))
+ <->
+u_str  ESTAB      0      0         * 10296                 * 10301               users:(("systemd-timesyn",pid=241,fd=2),("systemd-timesyn",pid=241,fd=1))
+ -->
+u_dgr  UNCONN     0      0         * 8973                  * 8974                users:(("systemd",pid=1,fd=15))
+ <->
+u_dgr  UNCONN     0      0         * 8974                  * 8973                users:(("systemd",pid=1,fd=16))
+ <->
+u_str  ESTAB      0      0         * 11561                 * 11562               users:(("systemd-logind",pid=357,fd=12))
+ <->
+u_str  ESTAB      0      0         * 11901                 * 11908               users:(("dockerd",pid=384,fd=2),("dockerd",pid=384,fd=1))
+ -->
+u_str  ESTAB      0      0         * 10998                 * 11000               users:(("dbus-daemon",pid=348,fd=2),("dbus-daemon",pid=348,fd=1))
+ -->
+u_dgr  UNCONN     0      0         * 10340                 * 8993                users:(("systemd-timesyn",pid=241,fd=3))
+ <->
+u_str  ESTAB      0      0      /run/containerd/containerd.sock 12401                 * 12396               users:(("containerd",pid=377,fd=8))
+ <->
+u_str  ESTAB      0      0         * 10950                 * 11026               users:(("systemd",pid=1,fd=39))
+ <->
+u_dgr  UNCONN     0      0         * 9435                  * 8993                users:(("systemd",pid=1,fd=38))
+ <->
+u_str  ESTAB      0      0         * 12030                 * 12029               users:(("nginx",pid=401,fd=8),("nginx",pid=400,fd=8))
+ <->
+u_str  ESTAB      0      0      /var/run/dbus/system_bus_socket 11026                 * 10950               users:(("dbus-daemon",pid=348,fd=9))
+ <->
+u_dgr  UNCONN     0      0         * 9406                  * 8969                users:(("systemd-journal",pid=178,fd=14))
+ <->
+u_dgr  UNCONN     0      0         * 13534                 * 13533               users:(("systemd",pid=583,fd=15))
+ <->
+u_dgr  UNCONN     0      0         * 13519                 * 8993                users:(("systemd",pid=583,fd=3))
+ <->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 11741                 * 11738               users:(("systemd-journal",pid=178,fd=25),("systemd",pid=1,fd=55))
+ <--
+u_dgr  UNCONN     0      0         * 13533                 * 13534               users:(("systemd",pid=583,fd=14))
+ <->
+u_str  ESTAB      0      0         * 9522                  * 9528                users:(("systemd-udevd",pid=192,fd=2),("systemd-udevd",pid=192,fd=1))
+ -->
+u_dgr  UNCONN     0      0         * 11555                 * 8993                users:(("systemd-logind",pid=357,fd=3))
+ <->
+u_dgr  UNCONN     0      0         * 17378                 * 8993                users:(("systemd",pid=703,fd=3))
+ <->
+u_str  ESTAB      0      0      /run/systemd/journal/stdout 9528                  * 9522                users:(("systemd-journal",pid=178,fd=18),("systemd",pid=1,fd=41))
+ <--
+udp    UNCONN     0      0         *:68                    *:*                   users:(("dhclient",pid=388,fd=6)) ino:11599 sk:75 <->
+tcp    LISTEN     0      128       *:80                    *:*                   users:(("nginx",pid=401,fd=6),("nginx",pid=400,fd=6)) ino:12021 sk:76 <->
+tcp    LISTEN     0      128       *:22                    *:*                   users:(("sshd",pid=383,fd=3)) ino:12355 sk:77 <->
+tcp    ESTAB      0      0      192.168.56.127:22                 192.168.56.108:56776               users:(("sshd",pid=710,fd=3),("sshd",pid=701,fd=3)) timer:(keepalive,108min,0) ino:17248 sk:78 <->
+tcp    LISTEN     0      128      :::80                   :::*                   users:(("nginx",pid=401,fd=7),("nginx",pid=400,fd=7)) ino:12022 sk:79 v6only:1 <->
+tcp    LISTEN     0      128      :::22                   :::*                   users:(("sshd",pid=383,fd=4)) ino:12357 sk:7a v6only:1 <->

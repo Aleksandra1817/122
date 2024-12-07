@@ -1,0 +1,417 @@
+[Ср окт 30 10:10:40 2024] Linux version 4.9.0-9-amd64 (debian-kernel@lists.debian.org) (gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) ) #1 SMP Debian 4.9.168-1 (2019-04-12)
+[Ср окт 30 10:10:40 2024] Command line: BOOT_IMAGE=/boot/vmlinuz-4.9.0-9-amd64 root=UUID=b3dd5311-cba4-403b-b3ad-df29d9a5356d ro quiet
+[Ср окт 30 10:10:40 2024] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+[Ср окт 30 10:10:40 2024] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+[Ср окт 30 10:10:40 2024] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+[Ср окт 30 10:10:40 2024] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+[Ср окт 30 10:10:40 2024] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+[Ср окт 30 10:10:40 2024] e820: BIOS-provided physical RAM map:
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x0000000000100000-0x000000003ffeffff] usable
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x000000003fff0000-0x000000003fffffff] ACPI data
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+[Ср окт 30 10:10:40 2024] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+[Ср окт 30 10:10:40 2024] NX (Execute Disable) protection: active
+[Ср окт 30 10:10:40 2024] SMBIOS 2.5 present.
+[Ср окт 30 10:10:40 2024] DMI: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+[Ср окт 30 10:10:40 2024] Hypervisor detected: KVM
+[Ср окт 30 10:10:40 2024] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+[Ср окт 30 10:10:40 2024] e820: remove [mem 0x000a0000-0x000fffff] usable
+[Ср окт 30 10:10:40 2024] e820: last_pfn = 0x3fff0 max_arch_pfn = 0x400000000
+[Ср окт 30 10:10:40 2024] MTRR default type: uncachable
+[Ср окт 30 10:10:40 2024] MTRR variable ranges disabled:
+[Ср окт 30 10:10:40 2024] MTRR: Disabled
+[Ср окт 30 10:10:40 2024] x86/PAT: MTRRs disabled, skipping PAT initialization too.
+[Ср окт 30 10:10:40 2024] CPU MTRRs all blank - virtualized system.
+[Ср окт 30 10:10:40 2024] x86/PAT: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+[Ср окт 30 10:10:40 2024] found SMP MP-table at [mem 0x0009fff0-0x0009ffff] mapped at [ffffa0c74009fff0]
+[Ср окт 30 10:10:40 2024] Base memory trampoline at [ffffa0c740099000] 99000 size 24576
+[Ср окт 30 10:10:40 2024] BRK [0x17334000, 0x17334fff] PGTABLE
+[Ср окт 30 10:10:40 2024] BRK [0x17335000, 0x17335fff] PGTABLE
+[Ср окт 30 10:10:40 2024] BRK [0x17336000, 0x17336fff] PGTABLE
+[Ср окт 30 10:10:40 2024] BRK [0x17337000, 0x17337fff] PGTABLE
+[Ср окт 30 10:10:40 2024] BRK [0x17338000, 0x17338fff] PGTABLE
+[Ср окт 30 10:10:40 2024] RAMDISK: [mem 0x35d33000-0x36e90fff]
+[Ср окт 30 10:10:40 2024] ACPI: Early table checksum verification disabled
+[Ср окт 30 10:10:40 2024] ACPI: RSDP 0x00000000000E0000 000024 (v02 VBOX  )
+[Ср окт 30 10:10:40 2024] ACPI: XSDT 0x000000003FFF0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)
+[Ср окт 30 10:10:40 2024] ACPI: FACP 0x000000003FFF00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)
+[Ср окт 30 10:10:40 2024] ACPI: DSDT 0x000000003FFF0610 002353 (v02 VBOX   VBOXBIOS 00000002 INTL 20100528)
+[Ср окт 30 10:10:40 2024] ACPI: FACS 0x000000003FFF0200 000040
+[Ср окт 30 10:10:40 2024] ACPI: FACS 0x000000003FFF0200 000040
+[Ср окт 30 10:10:40 2024] ACPI: APIC 0x000000003FFF0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)
+[Ср окт 30 10:10:40 2024] ACPI: SSDT 0x000000003FFF02A0 00036C (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)
+[Ср окт 30 10:10:40 2024] ACPI: Local APIC address 0xfee00000
+[Ср окт 30 10:10:40 2024] No NUMA configuration found
+[Ср окт 30 10:10:40 2024] Faking a node at [mem 0x0000000000000000-0x000000003ffeffff]
+[Ср окт 30 10:10:40 2024] NODE_DATA(0) allocated [mem 0x3ffeb000-0x3ffeffff]
+[Ср окт 30 10:10:40 2024] kvm-clock: Using msrs 4b564d01 and 4b564d00
+[Ср окт 30 10:10:40 2024] kvm-clock: cpu 0, msr 0:3ffe3001, primary cpu clock
+[Ср окт 30 10:10:40 2024] kvm-clock: using sched offset of 9189388437 cycles
+[Ср окт 30 10:10:40 2024] clocksource: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+[Ср окт 30 10:10:40 2024] Zone ranges:
+[Ср окт 30 10:10:40 2024]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+[Ср окт 30 10:10:40 2024]   DMA32    [mem 0x0000000001000000-0x000000003ffeffff]
+[Ср окт 30 10:10:40 2024]   Normal   empty
+[Ср окт 30 10:10:40 2024]   Device   empty
+[Ср окт 30 10:10:40 2024] Movable zone start for each node
+[Ср окт 30 10:10:40 2024] Early memory node ranges
+[Ср окт 30 10:10:40 2024]   node   0: [mem 0x0000000000001000-0x000000000009efff]
+[Ср окт 30 10:10:40 2024]   node   0: [mem 0x0000000000100000-0x000000003ffeffff]
+[Ср окт 30 10:10:40 2024] Initmem setup node 0 [mem 0x0000000000001000-0x000000003ffeffff]
+[Ср окт 30 10:10:40 2024] On node 0 totalpages: 262030
+[Ср окт 30 10:10:40 2024]   DMA zone: 64 pages used for memmap
+[Ср окт 30 10:10:40 2024]   DMA zone: 21 pages reserved
+[Ср окт 30 10:10:40 2024]   DMA zone: 3998 pages, LIFO batch:0
+[Ср окт 30 10:10:40 2024]   DMA32 zone: 4032 pages used for memmap
+[Ср окт 30 10:10:40 2024]   DMA32 zone: 258032 pages, LIFO batch:31
+[Ср окт 30 10:10:40 2024] ACPI: PM-Timer IO Port: 0x4008
+[Ср окт 30 10:10:40 2024] ACPI: Local APIC address 0xfee00000
+[Ср окт 30 10:10:40 2024] IOAPIC[0]: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+[Ср окт 30 10:10:40 2024] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[Ср окт 30 10:10:40 2024] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 low level)
+[Ср окт 30 10:10:40 2024] ACPI: IRQ0 used by override.
+[Ср окт 30 10:10:40 2024] ACPI: IRQ9 used by override.
+[Ср окт 30 10:10:40 2024] Using ACPI (MADT) for SMP configuration information
+[Ср окт 30 10:10:40 2024] smpboot: Allowing 1 CPUs, 0 hotplug CPUs
+[Ср окт 30 10:10:40 2024] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+[Ср окт 30 10:10:40 2024] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+[Ср окт 30 10:10:40 2024] PM: Registered nosave memory: [mem 0x000a0000-0x000effff]
+[Ср окт 30 10:10:40 2024] PM: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+[Ср окт 30 10:10:40 2024] e820: [mem 0x40000000-0xfebfffff] available for PCI devices
+[Ср окт 30 10:10:40 2024] Booting paravirtualized kernel on KVM
+[Ср окт 30 10:10:40 2024] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+[Ср окт 30 10:10:40 2024] setup_percpu: NR_CPUS:512 nr_cpumask_bits:512 nr_cpu_ids:1 nr_node_ids:1
+[Ср окт 30 10:10:40 2024] percpu: Embedded 35 pages/cpu @ffffa0c77fc00000 s105304 r8192 d29864 u2097152
+[Ср окт 30 10:10:40 2024] pcpu-alloc: s105304 r8192 d29864 u2097152 alloc=1*2097152
+[Ср окт 30 10:10:40 2024] pcpu-alloc: [0] 0 
+[Ср окт 30 10:10:40 2024] PV qspinlock hash table entries: 256 (order: 0, 4096 bytes)
+[Ср окт 30 10:10:40 2024] Built 1 zonelists in Node order, mobility grouping on.  Total pages: 257913
+[Ср окт 30 10:10:40 2024] Policy zone: DMA32
+[Ср окт 30 10:10:40 2024] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.9.0-9-amd64 root=UUID=b3dd5311-cba4-403b-b3ad-df29d9a5356d ro quiet
+[Ср окт 30 10:10:40 2024] PID hash table entries: 4096 (order: 3, 32768 bytes)
+[Ср окт 30 10:10:40 2024] Calgary: detecting Calgary via BIOS EBDA area
+[Ср окт 30 10:10:40 2024] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+[Ср окт 30 10:10:40 2024] Memory: 997996K/1048120K available (6273K kernel code, 1161K rwdata, 2872K rodata, 1424K init, 656K bss, 50124K reserved, 0K cma-reserved)
+[Ср окт 30 10:10:40 2024] Kernel/User page tables isolation: enabled
+[Ср окт 30 10:10:40 2024] Hierarchical RCU implementation.
+[Ср окт 30 10:10:40 2024] 	Build-time adjustment of leaf fanout to 64.
+[Ср окт 30 10:10:40 2024] 	RCU restricting CPUs from NR_CPUS=512 to nr_cpu_ids=1.
+[Ср окт 30 10:10:40 2024] RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=1
+[Ср окт 30 10:10:40 2024] NR_IRQS:33024 nr_irqs:256 16
+[Ср окт 30 10:10:40 2024] Console: colour VGA+ 80x25
+[Ср окт 30 10:10:40 2024] console [tty0] enabled
+[Ср окт 30 10:10:40 2024] tsc: Detected 2494.342 MHz processor
+[Ср окт 30 10:10:40 2024] Calibrating delay loop (skipped) preset value.. 4988.68 BogoMIPS (lpj=9977368)
+[Ср окт 30 10:10:40 2024] pid_max: default: 32768 minimum: 301
+[Ср окт 30 10:10:40 2024] ACPI: Core revision 20160831
+[Ср окт 30 10:10:40 2024] ACPI: 2 ACPI AML tables successfully acquired and loaded
+[Ср окт 30 10:10:40 2024] Security Framework initialized
+[Ср окт 30 10:10:40 2024] Yama: disabled by default; enable with sysctl kernel.yama.*
+[Ср окт 30 10:10:40 2024] AppArmor: AppArmor disabled by boot time parameter
+[Ср окт 30 10:10:40 2024] Dentry cache hash table entries: 131072 (order: 8, 1048576 bytes)
+[Ср окт 30 10:10:40 2024] Inode-cache hash table entries: 65536 (order: 7, 524288 bytes)
+[Ср окт 30 10:10:40 2024] Mount-cache hash table entries: 2048 (order: 2, 16384 bytes)
+[Ср окт 30 10:10:40 2024] Mountpoint-cache hash table entries: 2048 (order: 2, 16384 bytes)
+[Ср окт 30 10:10:40 2024] mce: CPU supports 0 MCE banks
+[Ср окт 30 10:10:40 2024] process: using mwait in idle threads
+[Ср окт 30 10:10:40 2024] Last level iTLB entries: 4KB 512, 2MB 8, 4MB 8
+[Ср окт 30 10:10:40 2024] Last level dTLB entries: 4KB 512, 2MB 32, 4MB 32, 1GB 0
+[Ср окт 30 10:10:40 2024] Spectre V2 : Mitigation: Full generic retpoline
+[Ср окт 30 10:10:40 2024] Spectre V2 : Spectre v2 / SpectreRSB mitigation: Filling RSB on context switch
+[Ср окт 30 10:10:40 2024] Speculative Store Bypass: Vulnerable
+[Ср окт 30 10:10:40 2024] Freeing SMP alternatives memory: 24K
+[Ср окт 30 10:10:40 2024] ftrace: allocating 25308 entries in 99 pages
+[Ср окт 30 10:10:40 2024] smpboot: Max logical packages: 1
+[Ср окт 30 10:10:40 2024] x2apic enabled
+[Ср окт 30 10:10:40 2024] Switched APIC routing to physical x2apic.
+[Ср окт 30 10:10:40 2024] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[Ср окт 30 10:10:40 2024] APIC calibration not consistent with PM-Timer: 106ms instead of 100ms
+[Ср окт 30 10:10:40 2024] APIC delta adjusted to PM-Timer: 6239629 (6622178)
+[Ср окт 30 10:10:40 2024] smpboot: CPU0: Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz (family: 0x6, model: 0x2a, stepping: 0x7)
+[Ср окт 30 10:10:40 2024] Performance Events: unsupported p6 CPU model 42 no PMU driver, software events only.
+[Ср окт 30 10:10:40 2024] KVM setup paravirtual spinlock
+[Ср окт 30 10:10:40 2024] x86: Booted up 1 node, 1 CPUs
+[Ср окт 30 10:10:40 2024] smpboot: Total of 1 processors activated (4988.68 BogoMIPS)
+[Ср окт 30 10:10:40 2024] devtmpfs: initialized
+[Ср окт 30 10:10:40 2024] x86/mm: Memory block size: 128MB
+[Ср окт 30 10:10:40 2024] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+[Ср окт 30 10:10:40 2024] futex hash table entries: 256 (order: 2, 16384 bytes)
+[Ср окт 30 10:10:40 2024] pinctrl core: initialized pinctrl subsystem
+[Ср окт 30 10:10:40 2024] NET: Registered protocol family 16
+[Ср окт 30 10:10:40 2024] cpuidle: using governor ladder
+[Ср окт 30 10:10:40 2024] cpuidle: using governor menu
+[Ср окт 30 10:10:40 2024] ACPI: bus type PCI registered
+[Ср окт 30 10:10:40 2024] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+[Ср окт 30 10:10:40 2024] PCI: Using configuration type 1 for base access
+[Ср окт 30 10:10:40 2024] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[Ср окт 30 10:10:40 2024] ACPI: Added _OSI(Module Device)
+[Ср окт 30 10:10:40 2024] ACPI: Added _OSI(Processor Device)
+[Ср окт 30 10:10:40 2024] ACPI: Added _OSI(3.0 _SCP Extensions)
+[Ср окт 30 10:10:40 2024] ACPI: Added _OSI(Processor Aggregator Device)
+[Ср окт 30 10:10:40 2024] ACPI: Executed 1 blocks of module-level executable AML code
+[Ср окт 30 10:10:40 2024] ACPI: Interpreter enabled
+[Ср окт 30 10:10:40 2024] ACPI: (supports S0 S5)
+[Ср окт 30 10:10:40 2024] ACPI: Using IOAPIC for interrupt routing
+[Ср окт 30 10:10:40 2024] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+[Ср окт 30 10:10:40 2024] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+[Ср окт 30 10:10:40 2024] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+[Ср окт 30 10:10:40 2024] acpi PNP0A03:00: _OSC: not requesting OS control; OS requires [ExtendedConfig ASPM ClockPM MSI]
+[Ср окт 30 10:10:40 2024] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+[Ср окт 30 10:10:40 2024] PCI host bridge to bus 0000:00
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: root bus resource [mem 0x40000000-0xfdffffff window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: root bus resource [bus 00-ff]
+[Ср окт 30 10:10:40 2024] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.1: [8086:7111] type 00 class 0x01018a
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.1: reg 0x20: [io  0xd000-0xd00f]
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+[Ср окт 30 10:10:40 2024] pci 0000:00:02.0: [80ee:beef] type 00 class 0x030000
+[Ср окт 30 10:10:40 2024] pci 0000:00:02.0: reg 0x10: [mem 0xe0000000-0xe0ffffff pref]
+[Ср окт 30 10:10:40 2024] pci 0000:00:03.0: [8086:100e] type 00 class 0x020000
+[Ср окт 30 10:10:40 2024] pci 0000:00:03.0: reg 0x10: [mem 0xf0000000-0xf001ffff]
+[Ср окт 30 10:10:40 2024] pci 0000:00:03.0: reg 0x18: [io  0xd010-0xd017]
+[Ср окт 30 10:10:40 2024] pci 0000:00:04.0: [80ee:cafe] type 00 class 0x088000
+[Ср окт 30 10:10:40 2024] pci 0000:00:04.0: reg 0x10: [io  0xd020-0xd03f]
+[Ср окт 30 10:10:40 2024] pci 0000:00:04.0: reg 0x14: [mem 0xf0400000-0xf07fffff]
+[Ср окт 30 10:10:40 2024] pci 0000:00:04.0: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+[Ср окт 30 10:10:40 2024] pci 0000:00:05.0: [8086:2415] type 00 class 0x040100
+[Ср окт 30 10:10:40 2024] pci 0000:00:05.0: reg 0x10: [io  0xd100-0xd1ff]
+[Ср окт 30 10:10:40 2024] pci 0000:00:05.0: reg 0x14: [io  0xd200-0xd23f]
+[Ср окт 30 10:10:40 2024] pci 0000:00:06.0: [106b:003f] type 00 class 0x0c0310
+[Ср окт 30 10:10:40 2024] pci 0000:00:06.0: reg 0x10: [mem 0xf0804000-0xf0804fff]
+[Ср окт 30 10:10:40 2024] pci 0000:00:07.0: [8086:7113] type 00 class 0x068000
+[Ср окт 30 10:10:40 2024] pci 0000:00:07.0: quirk: [io  0x4000-0x403f] claimed by PIIX4 ACPI
+[Ср окт 30 10:10:40 2024] pci 0000:00:07.0: quirk: [io  0x4100-0x410f] claimed by PIIX4 SMB
+[Ср окт 30 10:10:40 2024] pci 0000:00:0b.0: [8086:265c] type 00 class 0x0c0320
+[Ср окт 30 10:10:40 2024] pci 0000:00:0b.0: reg 0x10: [mem 0xf0805000-0xf0805fff]
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: [8086:2829] type 00 class 0x010601
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: reg 0x10: [io  0xd240-0xd247]
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: reg 0x14: [io  0xd248-0xd24b]
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: reg 0x18: [io  0xd250-0xd257]
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: reg 0x1c: [io  0xd258-0xd25b]
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: reg 0x20: [io  0xd260-0xd26f]
+[Ср окт 30 10:10:40 2024] pci 0000:00:0d.0: reg 0x24: [mem 0xf0806000-0xf0807fff]
+[Ср окт 30 10:10:40 2024] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+[Ср окт 30 10:10:40 2024] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 9 *10 11)
+[Ср окт 30 10:10:40 2024] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 *9 10 11)
+[Ср окт 30 10:10:40 2024] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 9 10 *11)
+[Ср окт 30 10:10:40 2024] ACPI: Enabled 2 GPEs in block 00 to 07
+[Ср окт 30 10:10:40 2024] vgaarb: setting as boot device: PCI:0000:00:02.0
+[Ср окт 30 10:10:40 2024] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+[Ср окт 30 10:10:40 2024] vgaarb: loaded
+[Ср окт 30 10:10:40 2024] vgaarb: bridge control possible 0000:00:02.0
+[Ср окт 30 10:10:40 2024] PCI: Using ACPI for IRQ routing
+[Ср окт 30 10:10:40 2024] PCI: pci_cache_line_size set to 64 bytes
+[Ср окт 30 10:10:40 2024] e820: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+[Ср окт 30 10:10:40 2024] e820: reserve RAM buffer [mem 0x3fff0000-0x3fffffff]
+[Ср окт 30 10:10:40 2024] clocksource: Switched to clocksource kvm-clock
+[Ср окт 30 10:10:40 2024] VFS: Disk quotas dquot_6.6.0
+[Ср окт 30 10:10:40 2024] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[Ср окт 30 10:10:40 2024] pnp: PnP ACPI init
+[Ср окт 30 10:10:40 2024] pnp 00:00: Plug and Play ACPI device, IDs PNP0303 (active)
+[Ср окт 30 10:10:40 2024] pnp 00:01: Plug and Play ACPI device, IDs PNP0f03 (active)
+[Ср окт 30 10:10:40 2024] pnp: PnP ACPI: found 2 devices
+[Ср окт 30 10:10:40 2024] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+[Ср окт 30 10:10:40 2024] pci_bus 0000:00: resource 7 [mem 0x40000000-0xfdffffff window]
+[Ср окт 30 10:10:40 2024] NET: Registered protocol family 2
+[Ср окт 30 10:10:40 2024] TCP established hash table entries: 8192 (order: 4, 65536 bytes)
+[Ср окт 30 10:10:40 2024] TCP bind hash table entries: 8192 (order: 5, 131072 bytes)
+[Ср окт 30 10:10:40 2024] TCP: Hash tables configured (established 8192 bind 8192)
+[Ср окт 30 10:10:40 2024] UDP hash table entries: 512 (order: 2, 16384 bytes)
+[Ср окт 30 10:10:40 2024] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+[Ср окт 30 10:10:40 2024] NET: Registered protocol family 1
+[Ср окт 30 10:10:40 2024] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[Ср окт 30 10:10:40 2024] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[Ср окт 30 10:10:40 2024] pci 0000:00:02.0: Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+[Ср окт 30 10:10:40 2024] PCI: CLS 0 bytes, default 64
+[Ср окт 30 10:10:40 2024] Unpacking initramfs...
+[Ср окт 30 10:10:40 2024] Freeing initrd memory: 17784K
+[Ср окт 30 10:10:40 2024] platform rtc_cmos: registered platform RTC device (no PNP device found)
+[Ср окт 30 10:10:40 2024] audit: initializing netlink subsys (disabled)
+[Ср окт 30 10:10:40 2024] audit: type=2000 audit(1730272251.521:1): initialized
+[Ср окт 30 10:10:40 2024] workingset: timestamp_bits=40 max_order=18 bucket_order=0
+[Ср окт 30 10:10:40 2024] zbud: loaded
+[Ср окт 30 10:10:40 2024] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 250)
+[Ср окт 30 10:10:40 2024] io scheduler noop registered
+[Ср окт 30 10:10:40 2024] io scheduler deadline registered
+[Ср окт 30 10:10:40 2024] io scheduler cfq registered (default)
+[Ср окт 30 10:10:40 2024] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[Ср окт 30 10:10:40 2024] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[Ср окт 30 10:10:40 2024] GHES: HEST is not enabled!
+[Ср окт 30 10:10:40 2024] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+[Ср окт 30 10:10:40 2024] Linux agpgart interface v0.103
+[Ср окт 30 10:10:40 2024] AMD IOMMUv2 driver by Joerg Roedel <jroedel@suse.de>
+[Ср окт 30 10:10:40 2024] AMD IOMMUv2 functionality not available on this system
+[Ср окт 30 10:10:40 2024] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+[Ср окт 30 10:10:40 2024] serio: i8042 KBD port at 0x60,0x64 irq 1
+[Ср окт 30 10:10:40 2024] serio: i8042 AUX port at 0x60,0x64 irq 12
+[Ср окт 30 10:10:40 2024] mousedev: PS/2 mouse device common for all mice
+[Ср окт 30 10:10:40 2024] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input0
+[Ср окт 30 10:10:40 2024] rtc_cmos rtc_cmos: rtc core: registered rtc_cmos as rtc0
+[Ср окт 30 10:10:40 2024] rtc_cmos rtc_cmos: alarms up to one day, 114 bytes nvram
+[Ср окт 30 10:10:40 2024] ledtrig-cpu: registered to indicate activity on CPUs
+[Ср окт 30 10:10:40 2024] NET: Registered protocol family 10
+[Ср окт 30 10:10:40 2024] mip6: Mobile IPv6
+[Ср окт 30 10:10:40 2024] NET: Registered protocol family 17
+[Ср окт 30 10:10:40 2024] mpls_gso: MPLS GSO support
+[Ср окт 30 10:10:40 2024] registered taskstats version 1
+[Ср окт 30 10:10:40 2024] zswap: loaded using pool lzo/zbud
+[Ср окт 30 10:10:40 2024] ima: No TPM chip found, activating TPM-bypass!
+[Ср окт 30 10:10:40 2024] ima: Allocated hash algorithm: sha256
+[Ср окт 30 10:10:40 2024] rtc_cmos rtc_cmos: setting system clock to 2024-10-30 07:10:41 UTC (1730272241)
+[Ср окт 30 10:10:40 2024] PM: Hibernation image not present or could not be loaded.
+[Ср окт 30 10:10:40 2024] Freeing unused kernel memory: 1424K
+[Ср окт 30 10:10:40 2024] Write protecting the kernel read-only data: 12288k
+[Ср окт 30 10:10:40 2024] Freeing unused kernel memory: 1904K
+[Ср окт 30 10:10:40 2024] Freeing unused kernel memory: 1224K
+[Ср окт 30 10:10:40 2024] x86/mm: Checked W+X mappings: passed, no W+X pages found.
+[Ср окт 30 10:10:40 2024] random: systemd-udevd: uninitialized urandom read (16 bytes read)
+[Ср окт 30 10:10:40 2024] random: systemd-udevd: uninitialized urandom read (16 bytes read)
+[Ср окт 30 10:10:40 2024] random: systemd-udevd: uninitialized urandom read (16 bytes read)
+[Ср окт 30 10:10:41 2024] SCSI subsystem initialized
+[Ср окт 30 10:10:41 2024] libata version 3.00 loaded.
+[Ср окт 30 10:10:41 2024] ata_piix 0000:00:01.1: version 2.13
+[Ср окт 30 10:10:41 2024] scsi host0: ata_piix
+[Ср окт 30 10:10:41 2024] scsi host1: ata_piix
+[Ср окт 30 10:10:41 2024] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+[Ср окт 30 10:10:41 2024] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+[Ср окт 30 10:10:41 2024] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+[Ср окт 30 10:10:41 2024] e1000: Copyright (c) 1999-2006 Intel Corporation.
+[Ср окт 30 10:10:41 2024] ACPI: bus type USB registered
+[Ср окт 30 10:10:41 2024] usbcore: registered new interface driver usbfs
+[Ср окт 30 10:10:41 2024] usbcore: registered new interface driver hub
+[Ср окт 30 10:10:41 2024] usbcore: registered new device driver usb
+[Ср окт 30 10:10:41 2024] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[Ср окт 30 10:10:41 2024] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[Ср окт 30 10:10:41 2024] ehci-pci: EHCI PCI platform driver
+[Ср окт 30 10:10:41 2024] AVX version of gcm_enc/dec engaged.
+[Ср окт 30 10:10:41 2024] AES CTR mode by8 optimization enabled
+[Ср окт 30 10:10:41 2024] ata2.00: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+[Ср окт 30 10:10:41 2024] ata2.00: configured for UDMA/33
+[Ср окт 30 10:10:41 2024] scsi 1:0:0:0: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+[Ср окт 30 10:10:41 2024] input: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input2
+[Ср окт 30 10:10:41 2024] e1000 0000:00:03.0 eth0: (PCI:33MHz:32-bit) 08:00:27:b4:8b:8d
+[Ср окт 30 10:10:41 2024] e1000 0000:00:03.0 eth0: Intel(R) PRO/1000 Network Connection
+[Ср окт 30 10:10:41 2024] piix4_smbus 0000:00:07.0: SMBus Host Controller at 0x4100, revision 0
+[Ср окт 30 10:10:41 2024] ehci-pci 0000:00:0b.0: EHCI Host Controller
+[Ср окт 30 10:10:41 2024] ehci-pci 0000:00:0b.0: new USB bus registered, assigned bus number 1
+[Ср окт 30 10:10:41 2024] ehci-pci 0000:00:0b.0: irq 19, io mem 0xf0805000
+[Ср окт 30 10:10:41 2024] e1000 0000:00:03.0 enp0s3: renamed from eth0
+[Ср окт 30 10:10:41 2024] ehci-pci 0000:00:0b.0: USB 2.0 started, EHCI 1.00
+[Ср окт 30 10:10:41 2024] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[Ср окт 30 10:10:41 2024] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Ср окт 30 10:10:41 2024] usb usb1: Product: EHCI Host Controller
+[Ср окт 30 10:10:41 2024] usb usb1: Manufacturer: Linux 4.9.0-9-amd64 ehci_hcd
+[Ср окт 30 10:10:41 2024] usb usb1: SerialNumber: 0000:00:0b.0
+[Ср окт 30 10:10:41 2024] hub 1-0:1.0: USB hub found
+[Ср окт 30 10:10:41 2024] hub 1-0:1.0: 12 ports detected
+[Ср окт 30 10:10:41 2024] ahci 0000:00:0d.0: version 3.0
+[Ср окт 30 10:10:41 2024] ahci 0000:00:0d.0: SSS flag set, parallel bus scan disabled
+[Ср окт 30 10:10:41 2024] ahci 0000:00:0d.0: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+[Ср окт 30 10:10:41 2024] ahci 0000:00:0d.0: flags: 64bit ncq stag only ccc 
+[Ср окт 30 10:10:41 2024] ohci-pci: OHCI PCI platform driver
+[Ср окт 30 10:10:41 2024] scsi host2: ahci
+[Ср окт 30 10:10:41 2024] ata3: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 21
+[Ср окт 30 10:10:41 2024] ohci-pci 0000:00:06.0: OHCI PCI host controller
+[Ср окт 30 10:10:41 2024] ohci-pci 0000:00:06.0: new USB bus registered, assigned bus number 2
+[Ср окт 30 10:10:41 2024] ohci-pci 0000:00:06.0: irq 22, io mem 0xf0804000
+[Ср окт 30 10:10:41 2024] sr 1:0:0:0: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+[Ср окт 30 10:10:41 2024] cdrom: Uniform CD-ROM driver Revision: 3.20
+[Ср окт 30 10:10:41 2024] sr 1:0:0:0: Attached scsi CD-ROM sr0
+[Ср окт 30 10:10:41 2024] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+[Ср окт 30 10:10:41 2024] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[Ср окт 30 10:10:41 2024] usb usb2: Product: OHCI PCI host controller
+[Ср окт 30 10:10:41 2024] usb usb2: Manufacturer: Linux 4.9.0-9-amd64 ohci_hcd
+[Ср окт 30 10:10:41 2024] usb usb2: SerialNumber: 0000:00:06.0
+[Ср окт 30 10:10:41 2024] hub 2-0:1.0: USB hub found
+[Ср окт 30 10:10:41 2024] hub 2-0:1.0: 12 ports detected
+[Ср окт 30 10:10:41 2024] random: fast init done
+[Ср окт 30 10:10:41 2024] ata3: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+[Ср окт 30 10:10:41 2024] ata3.00: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+[Ср окт 30 10:10:41 2024] ata3.00: 16777216 sectors, multi 128: LBA48 NCQ (depth 31/32)
+[Ср окт 30 10:10:41 2024] ata3.00: configured for UDMA/133
+[Ср окт 30 10:10:41 2024] scsi 2:0:0:0: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+[Ср окт 30 10:10:41 2024] sd 2:0:0:0: [sda] 16777216 512-byte logical blocks: (8.59 GB/8.00 GiB)
+[Ср окт 30 10:10:41 2024] sd 2:0:0:0: [sda] Write Protect is off
+[Ср окт 30 10:10:41 2024] sd 2:0:0:0: [sda] Mode Sense: 00 3a 00 00
+[Ср окт 30 10:10:41 2024] sd 2:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+[Ср окт 30 10:10:41 2024]  sda: sda1 sda2 < sda5 >
+[Ср окт 30 10:10:41 2024] sd 2:0:0:0: [sda] Attached SCSI disk
+[Ср окт 30 10:10:41 2024] tsc: Refined TSC clocksource calibration: 2493.970 MHz
+[Ср окт 30 10:10:41 2024] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x23f2f9822d9, max_idle_ns: 440795244575 ns
+[Ср окт 30 10:10:41 2024] PM: Starting manual resume from disk
+[Ср окт 30 10:10:41 2024] PM: Hibernation image partition 8:5 present
+[Ср окт 30 10:10:41 2024] PM: Looking for hibernation image.
+[Ср окт 30 10:10:41 2024] PM: Image not found (code -22)
+[Ср окт 30 10:10:41 2024] PM: Hibernation image not present or could not be loaded.
+[Ср окт 30 10:10:42 2024] usb 2-1: new full-speed USB device number 2 using ohci-pci
+[Ср окт 30 10:10:42 2024] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+[Ср окт 30 10:10:42 2024] ip_tables: (C) 2000-2006 Netfilter Core Team
+[Ср окт 30 10:10:42 2024] systemd[1]: systemd 232 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+[Ср окт 30 10:10:42 2024] systemd[1]: Detected virtualization oracle.
+[Ср окт 30 10:10:42 2024] systemd[1]: Detected architecture x86-64.
+[Ср окт 30 10:10:42 2024] systemd[1]: Set hostname to <jury>.
+[Ср окт 30 10:10:42 2024] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021
+[Ср окт 30 10:10:42 2024] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+[Ср окт 30 10:10:42 2024] usb 2-1: Product: USB Tablet
+[Ср окт 30 10:10:42 2024] usb 2-1: Manufacturer: VirtualBox
+[Ср окт 30 10:10:42 2024] systemd[1]: apache2.service: Cannot add dependency job, ignoring: Unit apache2.service is masked.
+[Ср окт 30 10:10:42 2024] systemd[1]: Started Forward Password Requests to Wall Directory Watch.
+[Ср окт 30 10:10:42 2024] systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+[Ср окт 30 10:10:42 2024] systemd[1]: Listening on udev Kernel Socket.
+[Ср окт 30 10:10:42 2024] systemd[1]: Listening on Journal Socket (/dev/log).
+[Ср окт 30 10:10:42 2024] systemd[1]: Created slice System Slice.
+[Ср окт 30 10:10:42 2024] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+[Ср окт 30 10:10:42 2024] systemd-journald[178]: Received request to flush runtime journal from PID 1
+[Ср окт 30 10:10:43 2024] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input3
+[Ср окт 30 10:10:43 2024] ACPI: Power Button [PWRF]
+[Ср окт 30 10:10:43 2024] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input4
+[Ср окт 30 10:10:43 2024] ACPI: Sleep Button [SLPF]
+[Ср окт 30 10:10:43 2024] ACPI: AC Adapter [AC] (on-line)
+[Ср окт 30 10:10:43 2024] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+[Ср окт 30 10:10:43 2024] input: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input5
+[Ср окт 30 10:10:43 2024] nf_conntrack version 0.5.0 (8192 buckets, 32768 max)
+[Ср окт 30 10:10:43 2024] ACPI: Battery Slot [BAT0] (battery present)
+[Ср окт 30 10:10:43 2024] sr 1:0:0:0: Attached scsi generic sg0 type 5
+[Ср окт 30 10:10:43 2024] sd 2:0:0:0: Attached scsi generic sg1 type 0
+[Ср окт 30 10:10:43 2024] input: PC Speaker as /devices/platform/pcspkr/input/input6
+[Ср окт 30 10:10:43 2024] RAPL PMU: API unit is 2^-32 Joules, 3 fixed counters, 10737418240 ms ovfl timer
+[Ср окт 30 10:10:43 2024] RAPL PMU: hw unit of domain pp0-core 2^-0 Joules
+[Ср окт 30 10:10:43 2024] RAPL PMU: hw unit of domain package 2^-0 Joules
+[Ср окт 30 10:10:43 2024] RAPL PMU: hw unit of domain pp1-gpu 2^-0 Joules
+[Ср окт 30 10:10:43 2024] hidraw: raw HID events driver (C) Jiri Kosina
+[Ср окт 30 10:10:43 2024] usbcore: registered new interface driver usbhid
+[Ср окт 30 10:10:43 2024] usbhid: USB HID core driver
+[Ср окт 30 10:10:43 2024] Adding 1046524k swap on /dev/sda5.  Priority:-1 extents:1 across:1046524k FS
+[Ср окт 30 10:10:43 2024] snd_intel8x0 0000:00:05.0: white list rate for 1028:0177 is 48000
+[Ср окт 30 10:10:43 2024] IPv6: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+[Ср окт 30 10:10:43 2024] e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[Ср окт 30 10:10:43 2024] IPv6: ADDRCONF(NETDEV_CHANGE): enp0s3: link becomes ready
+[Ср окт 30 10:10:43 2024] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0001/input/input7
+[Ср окт 30 10:10:43 2024] hid-generic 0003:80EE:0021.0001: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+[Ср окт 30 10:10:45 2024] aufs: loading out-of-tree module taints kernel.
+[Ср окт 30 10:10:45 2024] aufs 4.9-20161219
+[Ср окт 30 10:10:45 2024] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[Ср окт 30 10:10:45 2024] Bridge firewalling registered
+[Ср окт 30 10:10:45 2024] Initializing XFRM netlink socket
+[Ср окт 30 10:10:45 2024] Netfilter messages via NETLINK v0.30.
+[Ср окт 30 10:10:45 2024] ctnetlink v0.93: registering with nfnetlink.
+[Ср окт 30 10:10:45 2024] IPv6: ADDRCONF(NETDEV_UP): docker0: link is not ready
+[Ср окт 30 10:10:45 2024] random: crng init done
+[Ср окт 30 10:10:45 2024] random: 7 urandom warning(s) missed due to ratelimiting
+[Ср окт 30 10:47:52 2024] DCCP: Activated CCID 2 (TCP-like)
+[Ср окт 30 10:47:52 2024] DCCP: Activated CCID 3 (TCP-Friendly Rate Control)
+[Ср окт 30 10:47:52 2024] sctp: Hash tables configured (bind 256/256)

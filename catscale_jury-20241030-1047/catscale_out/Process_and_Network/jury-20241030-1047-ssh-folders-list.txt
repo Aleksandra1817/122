@@ -1,0 +1,4 @@
+/root/.ssh/
+/root/.ssh/known_hosts
+/home/admin/.ssh/
+/home/admin/.ssh/known_hosts

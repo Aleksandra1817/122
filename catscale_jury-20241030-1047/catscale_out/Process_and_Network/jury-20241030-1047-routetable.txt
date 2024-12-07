@@ -1,0 +1,19 @@
+unicast 169.254.0.0/16 dev enp0s3 table main proto boot scope link metric 1000 
+unicast 172.17.0.0/16 dev docker0 table main proto kernel scope link src 172.17.0.1 linkdown 
+unicast 192.168.56.0/24 dev enp0s3 table main proto kernel scope link src 192.168.56.127 
+broadcast 127.0.0.0 dev lo table local proto kernel scope link src 127.0.0.1 
+local 127.0.0.0/8 dev lo table local proto kernel scope host src 127.0.0.1 
+local 127.0.0.1 dev lo table local proto kernel scope host src 127.0.0.1 
+broadcast 127.255.255.255 dev lo table local proto kernel scope link src 127.0.0.1 
+broadcast 172.17.0.0 dev docker0 table local proto kernel scope link src 172.17.0.1 linkdown 
+local 172.17.0.1 dev docker0 table local proto kernel scope host src 172.17.0.1 
+broadcast 172.17.255.255 dev docker0 table local proto kernel scope link src 172.17.0.1 linkdown 
+broadcast 192.168.56.0 dev enp0s3 table local proto kernel scope link src 192.168.56.127 
+local 192.168.56.127 dev enp0s3 table local proto kernel scope host src 192.168.56.127 
+broadcast 192.168.56.255 dev enp0s3 table local proto kernel scope link src 192.168.56.127 
+unicast fe80::/64 dev enp0s3 table main proto kernel scope global metric 256  pref medium
+unreachable default dev lo proto kernel scope global metric 4294967295  error -101 pref medium
+local ::1 dev lo table local proto none scope global metric 0  pref medium
+local fe80::a00:27ff:feb4:8b8d dev lo table local proto none scope global metric 0  pref medium
+unicast ff00::/8 dev enp0s3 table local proto boot scope global metric 256  pref medium
+unreachable default dev lo proto kernel scope global metric 4294967295  error -101 pref medium

@@ -1,0 +1,120 @@
+Sudo версия 1.8.19p1
+Параметры настройки: --prefix=/usr -v --with-all-insults --with-pam --with-fqdn --with-logging=syslog --with-logfac=authpriv --with-env-editor --with-editor=/usr/bin/editor --with-exampledir=/usr/share/doc/sudo/examples --with-timeout=15 --with-password-timeout=0 --with-passprompt=[sudo] password for %p:  --disable-root-mailer --with-sendmail=/usr/sbin/sendmail --with-rundir=/var/lib/sudo --mandir=/usr/share/man --libexecdir=/usr/lib/sudo --with-sssd --with-sssd-lib=/usr/lib/x86_64-linux-gnu --with-selinux --with-linux-audit
+Sudoers policy plugin version 1.8.19p1
+Sudoers file grammar version 45
+
+Sudoers path: /etc/sudoers
+Методы аутентификации: 'pam'
+Syslog facility if syslog is being used for logging: authpriv
+Syslog priority to use when user authenticates successfully: notice
+Syslog priority to use when user authenticates unsuccessfully: alert
+Отправлять письмо при ошибке аутентификации
+Отправлять письмо, если пользователя нет в группе sudoers
+Use a separate timestamp for each user/tty combo
+Lecture user the first time they run sudo
+Require users to authenticate by default
+Root may run sudo
+Allow some information gathering to give useful error messages
+Require fully-qualified hostnames in the sudoers file
+Visudo will honor the EDITOR environment variable
+Set the LOGNAME and USER environment variables
+Length at which to wrap log file lines (0 for no wrap): 80
+Authentication timestamp timeout: 15,0 minutes
+Password prompt timeout: 0,0 minutes
+Number of tries to enter a password: 3
+Umask to use or 0777 to use user's: 022
+Path to mail program: /usr/sbin/sendmail
+Flags for mail program: -t
+Address to send mail to: root
+Subject line for mail messages: *** SECURITY information for %h ***
+Incorrect password message: Попробуйте ещё раз.
+Path to lecture status dir: /var/lib/sudo/lectured
+Path to authentication timestamp dir: /var/lib/sudo/ts
+Default password prompt: [sudo] пароль для %p: 
+Default user to run commands as: root
+Value to override user's $PATH with: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+Path to the editor for use by visudo: /usr/bin/editor
+When to require a password for 'list' pseudocommand: any
+When to require a password for 'verify' pseudocommand: all
+File descriptors >= 3 will be closed before executing a command
+Reset the environment to a default set of variables
+Environment variables to check for sanity:
+	TZ
+	TERM
+	LINGUAS
+	LC_*
+	LANGUAGE
+	LANG
+	COLORTERM
+Environment variables to remove:
+	__BASH_FUNC<*
+	BASH_FUNC_*
+	RUBYOPT
+	RUBYLIB
+	PYTHONUSERBASE
+	PYTHONINSPECT
+	PYTHONPATH
+	PYTHONHOME
+	TMPPREFIX
+	ZDOTDIR
+	READNULLCMD
+	NULLCMD
+	FPATH
+	PERL5DB
+	PERL5OPT
+	PERL5LIB
+	PERLLIB
+	PERLIO_DEBUG 
+	JAVA_TOOL_OPTIONS
+	SHELLOPTS
+	BASHOPTS
+	GLOBIGNORE
+	PS4
+	BASH_ENV
+	ENV
+	TERMCAP
+	TERMPATH
+	TERMINFO_DIRS
+	TERMINFO
+	_RLD*
+	LD_*
+	PATH_LOCALE
+	NLSPATH
+	HOSTALIASES
+	RES_OPTIONS
+	LOCALDOMAIN
+	CDPATH
+	IFS
+Environment variables to preserve:
+	XAUTHORIZATION
+	XAUTHORITY
+	PS2
+	PS1
+	PATH
+	LS_COLORS
+	KRB5CCNAME
+	HOSTNAME
+	DISPLAY
+	COLORS
+Locale to use while parsing sudoers: C
+Directory in which to store input/output logs: /var/log/sudo-io
+File in which to store the input/output log: %{seq}
+Add an entry to the utmp/utmpx file when allocating a pty
+PAM service name to use
+PAM service name to use for login shells
+Attempt to establish PAM credentials for the target user
+Create a new PAM session for the command to run in
+Maximum I/O log sequence number: 0
+Enable sudoers netgroup support
+Check parent directories for writability when editing files with sudoedit
+Allow commands to be run even if sudo cannot write to the audit log
+Allow commands to be run even if sudo cannot write to the log file
+Log entries larger than this value will be split into multiple syslog messages
+File mode to use for the I/O log files: 0600
+
+Local IP address and netmask pairs:
+	192.168.56.127/255.255.255.0
+	172.17.0.1/255.255.0.0
+	fe80::a00:27ff:feb4:8b8d/ffff:ffff:ffff:ffff::
+
+Sudoers I/O plugin version 1.8.19p1

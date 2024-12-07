@@ -1,0 +1,4 @@
+ 10:47:53 up 37 min,  2 users,  load average: 0,15, 0,03, 0,01
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+root     tty1     -                10:13   23:12   0.14s  0.04s bash
+admin    pts/0    192.168.56.108   10:36    9.00s  0.10s  0.02s sshd: admin [priv]  

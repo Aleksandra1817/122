@@ -1,0 +1,1 @@
+020b504b7dfd29d1d93e23c5de9b21397cbfb973  /var/cache/dictionaries-common/sqspell.php

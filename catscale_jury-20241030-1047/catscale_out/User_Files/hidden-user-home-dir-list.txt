@@ -1,0 +1,15 @@
+/root/.bashrc
+/root/.selected_editor
+/root/.profile
+/root/.bash_history
+/home/user/.bashrc
+/home/user/.profile
+/home/user/.bash_logout
+/home/admin/.bashrc
+/home/admin/.selected_editor
+/home/admin/.profile
+/home/admin/.bash_logout
+/home/admin/.bash_history
+/home/docker_admin/.bashrc
+/home/docker_admin/.profile
+/home/docker_admin/.bash_logout

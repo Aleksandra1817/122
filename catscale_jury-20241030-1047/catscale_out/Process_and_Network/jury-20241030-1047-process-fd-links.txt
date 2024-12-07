@@ -1,0 +1,866 @@
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/178/fd/0 -> /dev/null
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/1 -> /dev/null
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/178/fd/10 -> /proc/sys/kernel/hostname
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/11 -> anon_inode:[signalfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/12 -> anon_inode:[signalfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/13 -> anon_inode:[signalfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/14 -> socket:[9406]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/15 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/16 -> /run/log/journal/a94fcbe518324a8682d035164c9206c1/system@3b959b8a3ec24008bbf156d99ee8c2bb-0000000000000001-000625ac666abff9.journal
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/17 -> socket:[11000]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/18 -> socket:[9528]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/19 -> socket:[13490]
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/2 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/20 -> socket:[10301]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/21 -> socket:[11505]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/22 -> socket:[17362]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/23 -> socket:[11376]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/24 -> socket:[11834]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/25 -> socket:[11741]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/26 -> socket:[11908]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/27 -> /run/log/journal/a94fcbe518324a8682d035164c9206c1/system.journal
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/3 -> socket:[8991]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/4 -> socket:[8993]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/5 -> socket:[8982]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/6 -> socket:[9183]
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/7 -> /dev/kmsg
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/8 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/178/fd/9 -> /dev/kmsg
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/192/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/1 -> socket:[9522]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/10 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/11 -> anon_inode:[signalfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/12 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/13 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/2 -> socket:[9522]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/3 -> socket:[8981]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/4 -> socket:[9102]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/5 -> socket:[9530]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/192/fd/6 -> /lib/udev/hwdb.bin
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/7 -> socket:[9534]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/192/fd/8 -> socket:[9535]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/192/fd/9 -> anon_inode:inotify
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/1/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/1/fd/1 -> /dev/null
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/10 -> /proc/1/mountinfo
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/11 -> anon_inode:inotify
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/12 -> /proc/swaps
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/13 -> socket:[8969]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/14 -> socket:[8971]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/15 -> socket:[8973]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/16 -> socket:[8974]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/17 -> socket:[8975]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/18 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/1/fd/2 -> /dev/null
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/23 -> anon_inode:inotify
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/24 -> socket:[13490]
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/25 -> anon_inode:inotify
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/26 -> socket:[8981]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/27 -> socket:[8982]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/28 -> socket:[8989]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/29 -> socket:[8991]
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/1/fd/3 -> /dev/kmsg
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/30 -> socket:[8993]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/31 -> /run/systemd/initctl/fifo
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/32 -> socket:[9102]
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/33 -> /dev/autofs
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/34 -> pipe:[9107]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/35 -> socket:[9178]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/36 -> socket:[9183]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/37 -> socket:[9309]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/38 -> socket:[9435]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/39 -> socket:[10950]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/40 -> socket:[10932]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/41 -> socket:[9528]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/42 -> socket:[10301]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/43 -> socket:[17362]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/44 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/45 -> socket:[10940]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/46 -> socket:[11000]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/47 -> socket:[11834]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/49 -> socket:[11376]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/5 -> anon_inode:[signalfd]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/50 -> socket:[11908]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/53 -> socket:[11505]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/55 -> socket:[11741]
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/1/fd/6 -> /sys/fs/cgroup/systemd
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/7 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/8 -> socket:[8966]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/1/fd/9 -> anon_inode:[eventpoll]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/241/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/1 -> socket:[10296]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/10 -> socket:[10349]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/241/fd/11 -> anon_inode:inotify
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/12 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/2 -> socket:[10296]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/3 -> socket:[10340]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/5 -> anon_inode:[signalfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/6 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/7 -> socket:[10346]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/8 -> socket:[10347]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/241/fd/9 -> socket:[10348]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/1 -> socket:[10998]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/10 -> socket:[11562]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/2 -> socket:[10998]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/3 -> socket:[10940]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/5 -> socket:[11023]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/348/fd/6 -> anon_inode:inotify
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/7 -> socket:[11024]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/8 -> socket:[11025]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/348/fd/9 -> socket:[11026]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/352/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/352/fd/1 -> socket:[11213]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/352/fd/2 -> socket:[11213]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/352/fd/3 -> /run/crond.pid
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/357/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/1 -> socket:[11430]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/10 -> socket:[11559]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/11 -> socket:[11560]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/12 -> socket:[11561]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/13 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/14 -> /dev/input/event2
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/15 -> /dev/input/event3
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/16 -> /dev/input/event4
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/17 -> /dev/tty6
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/357/fd/18 -> /run/systemd/sessions/2.ref
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/357/fd/19 -> /run/systemd/sessions/10.ref
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/2 -> socket:[11430]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/3 -> socket:[11555]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/5 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/6 -> anon_inode:[signalfd]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/357/fd/7 -> /sys/devices/virtual/tty/tty0/active
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/8 -> socket:[11557]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/357/fd/9 -> socket:[11558]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/358/fd/0 -> /dev/null
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/1 -> /dev/null
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/10 -> /var/log/daemon.log
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/11 -> /var/log/auth.log
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/2 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/3 -> socket:[8989]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/358/fd/4 -> /proc/kmsg
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/5 -> socket:[11582]
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/6 -> /var/log/syslog
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/7 -> /var/log/kern.log
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/8 -> /var/log/debug
+l-wx------ 1 root     root     64 окт 30 10:10 /proc/358/fd/9 -> /var/log/messages
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/377/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/1 -> socket:[11738]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/2 -> socket:[11738]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/3 -> /var/lib/containerd/io.containerd.metadata.v1.bolt/meta.db
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/5 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/6 -> socket:[12348]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/7 -> socket:[12394]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/377/fd/8 -> socket:[12401]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/383/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/383/fd/1 -> socket:[11833]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/383/fd/2 -> socket:[11833]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/383/fd/3 -> socket:[12355]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/383/fd/4 -> socket:[12357]
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/384/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/1 -> socket:[11901]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/10 -> socket:[12396]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/11 -> socket:[12562]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/12 -> socket:[12563]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/13 -> socket:[12564]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/14 -> socket:[12686]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/15 -> /var/lib/docker/builder/fscache.db
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/16 -> /var/lib/docker/buildkit/snapshots.db
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/17 -> /var/lib/docker/buildkit/metadata.db
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/18 -> /var/lib/docker/buildkit/cache.db
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/2 -> socket:[11901]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/3 -> socket:[12384]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/4 -> socket:[12363]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/5 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/6 -> socket:[10932]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/7 -> /var/lib/docker/volumes/metadata.db
+lr-x------ 1 root     root     64 окт 30 10:10 /proc/384/fd/8 -> net:[4026531957]
+lrwx------ 1 root     root     64 окт 30 10:10 /proc/384/fd/9 -> socket:[12393]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/1 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/2 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/3 -> socket:[10813]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/4 -> /var/lib/dhcp/dhclient.enp0s3.leases
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/5 -> socket:[11597]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/388/fd/6 -> socket:[11599]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/1 -> /dev/null
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/2 -> /var/log/nginx/error.log
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/3 -> socket:[12029]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/4 -> /var/log/nginx/access.log
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/5 -> /var/log/nginx/error.log
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/6 -> socket:[12021]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/7 -> socket:[12022]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/400/fd/8 -> socket:[12030]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/0 -> /dev/null
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/1 -> /dev/null
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/10 -> anon_inode:[eventfd]
+l-wx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/2 -> /var/log/nginx/error.log
+l-wx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/4 -> /var/log/nginx/access.log
+l-wx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/5 -> /var/log/nginx/error.log
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/6 -> socket:[12021]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/7 -> socket:[12022]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/8 -> socket:[12030]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 /proc/401/fd/9 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/578/fd/0 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/578/fd/1 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/578/fd/2 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/578/fd/3 -> socket:[13413]
+l-wx------ 1 root     root     64 окт 30 10:13 /proc/578/fd/6 -> /run/systemd/sessions/2.ref
+lr-x------ 1 root     root     64 окт 30 10:13 /proc/583/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/1 -> socket:[13488]
+lr-x------ 1 root     root     64 окт 30 10:13 /proc/583/fd/10 -> /proc/583/mountinfo
+lr-x------ 1 root     root     64 окт 30 10:13 /proc/583/fd/11 -> anon_inode:inotify
+lr-x------ 1 root     root     64 окт 30 10:13 /proc/583/fd/12 -> /proc/swaps
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/13 -> socket:[13531]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/14 -> socket:[13533]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/15 -> socket:[13534]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/16 -> socket:[13535]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/2 -> socket:[13488]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/21 -> socket:[13540]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/22 -> socket:[13543]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/23 -> socket:[13545]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/24 -> socket:[13547]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/3 -> socket:[13519]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/5 -> anon_inode:[signalfd]
+lr-x------ 1 root     root     64 окт 30 10:13 /proc/583/fd/6 -> /sys/fs/cgroup/systemd/user.slice/user-0.slice/user@0.service
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/7 -> anon_inode:[timerfd]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/8 -> socket:[13527]
+lrwx------ 1 root     root     64 окт 30 10:13 /proc/583/fd/9 -> anon_inode:[eventpoll]
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/584/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/584/fd/1 -> socket:[13488]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/584/fd/2 -> socket:[13488]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/584/fd/3 -> anon_inode:[eventfd]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/584/fd/4 -> anon_inode:[eventfd]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/584/fd/6 -> pipe:[13489]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/584/fd/7 -> socket:[13498]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/587/fd/0 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/587/fd/1 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/587/fd/2 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/587/fd/255 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:24 /proc/669/fd/0 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/669/fd/1 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/669/fd/2 -> /dev/tty1
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/669/fd/3 -> socket:[15580]
+lrwx------ 1 admin    admin    64 окт 30 10:47 /proc/670/fd/0 -> /dev/tty1
+lrwx------ 1 admin    admin    64 окт 30 10:47 /proc/670/fd/1 -> /dev/tty1
+lrwx------ 1 admin    admin    64 окт 30 10:47 /proc/670/fd/2 -> /dev/tty1
+lrwx------ 1 admin    admin    64 окт 30 10:47 /proc/670/fd/255 -> /dev/tty1
+lr-x------ 1 root     root     64 окт 30 10:36 /proc/701/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:36 /proc/701/fd/1 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:36 /proc/701/fd/2 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:36 /proc/701/fd/3 -> socket:[17248]
+lrwx------ 1 root     root     64 окт 30 10:36 /proc/701/fd/4 -> socket:[17284]
+lrwx------ 1 root     root     64 окт 30 10:36 /proc/701/fd/5 -> /dev/ptmx
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/701/fd/6 -> socket:[17420]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/701/fd/7 -> /run/systemd/sessions/10.ref
+lr-x------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/0 -> /dev/null
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/1 -> socket:[17357]
+lr-x------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/10 -> /proc/703/mountinfo
+lr-x------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/11 -> anon_inode:inotify
+lr-x------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/12 -> /proc/swaps
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/13 -> socket:[17393]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/14 -> socket:[17395]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/15 -> socket:[17396]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/16 -> socket:[17397]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/2 -> socket:[17357]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/21 -> socket:[17402]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/22 -> socket:[17405]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/23 -> socket:[17407]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/24 -> socket:[17409]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/3 -> socket:[17378]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/4 -> anon_inode:[eventpoll]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/5 -> anon_inode:[signalfd]
+lr-x------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/6 -> /sys/fs/cgroup/systemd/user.slice/user-1001.slice/user@1001.service
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/7 -> anon_inode:[timerfd]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/8 -> socket:[17387]
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/703/fd/9 -> anon_inode:[eventpoll]
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/704/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/704/fd/1 -> socket:[17357]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/704/fd/2 -> socket:[17357]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/704/fd/3 -> anon_inode:[eventfd]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/704/fd/4 -> anon_inode:[eventfd]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/704/fd/6 -> pipe:[17358]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/704/fd/7 -> socket:[17365]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/0 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/1 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/11 -> /dev/ptmx
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/12 -> /dev/ptmx
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/2 -> /dev/null
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/3 -> socket:[17248]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/4 -> socket:[17284]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/5 -> socket:[17419]
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/710/fd/6 -> pipe:[17425]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/7 -> /run/systemd/sessions/10.ref
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/8 -> pipe:[17425]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/710/fd/9 -> /dev/ptmx
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/711/fd/0 -> /dev/pts/0
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/711/fd/1 -> /dev/pts/0
+lrwx------ 1 admin    admin    64 окт 30 10:36 /proc/711/fd/2 -> /dev/pts/0
+lrwx------ 1 admin    admin    64 окт 30 10:47 /proc/711/fd/255 -> /dev/pts/0
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/0 -> /dev/pts/0
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/1 -> /dev/pts/0
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/2 -> /dev/pts/0
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/786/fd/3 -> pipe:[19186]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/4 -> pipe:[19186]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/5 -> socket:[19206]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/6 -> socket:[19209]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/786/fd/8 -> socket:[19212]
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/787/fd/0 -> /dev/pts/0
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/787/fd/1 -> /dev/pts/0
+lrwx------ 1 root     root     64 окт 30 10:47 /proc/787/fd/10 -> /dev/pts/0
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/787/fd/2 -> /home/admin/catscale_out/jury-20241030-1047-console-error-log.txt
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/787/fd/255 -> /home/admin/Cat-Scale.sh
+lr-x------ 1 root     root     64 окт 30 10:47 /proc/839/fd/0 -> pipe:[25601]
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/839/fd/1 -> /home/admin/catscale_out/Process_and_Network/jury-20241030-1047-process-fd-links.txt
+l-wx------ 1 root     root     64 окт 30 10:47 /proc/839/fd/2 -> /dev/null
+
+/proc/109/fd:
+итого 0
+
+/proc/10/fd:
+итого 0
+
+/proc/110/fd:
+итого 0
+
+/proc/111/fd:
+итого 0
+
+/proc/113/fd:
+итого 0
+
+/proc/115/fd:
+итого 0
+
+/proc/11/fd:
+итого 0
+
+/proc/12/fd:
+итого 0
+
+/proc/13/fd:
+итого 0
+
+/proc/141/fd:
+итого 0
+
+/proc/14/fd:
+итого 0
+
+/proc/150/fd:
+итого 0
+
+/proc/151/fd:
+итого 0
+
+/proc/15/fd:
+итого 0
+
+/proc/16/fd:
+итого 0
+
+/proc/178/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+l-wx------ 1 root root 64 окт 30 10:10 1 -> /dev/null
+lr-x------ 1 root root 64 окт 30 10:10 10 -> /proc/sys/kernel/hostname
+lrwx------ 1 root root 64 окт 30 10:10 11 -> anon_inode:[signalfd]
+lrwx------ 1 root root 64 окт 30 10:10 12 -> anon_inode:[signalfd]
+lrwx------ 1 root root 64 окт 30 10:10 13 -> anon_inode:[signalfd]
+lrwx------ 1 root root 64 окт 30 10:10 14 -> socket:[9406]
+lrwx------ 1 root root 64 окт 30 10:10 15 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 16 -> /run/log/journal/a94fcbe518324a8682d035164c9206c1/system@3b959b8a3ec24008bbf156d99ee8c2bb-0000000000000001-000625ac666abff9.journal
+lrwx------ 1 root root 64 окт 30 10:10 17 -> socket:[11000]
+lrwx------ 1 root root 64 окт 30 10:10 18 -> socket:[9528]
+lrwx------ 1 root root 64 окт 30 10:10 19 -> socket:[13490]
+l-wx------ 1 root root 64 окт 30 10:10 2 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 20 -> socket:[10301]
+lrwx------ 1 root root 64 окт 30 10:10 21 -> socket:[11505]
+lrwx------ 1 root root 64 окт 30 10:10 22 -> socket:[17362]
+lrwx------ 1 root root 64 окт 30 10:10 23 -> socket:[11376]
+lrwx------ 1 root root 64 окт 30 10:10 24 -> socket:[11834]
+lrwx------ 1 root root 64 окт 30 10:10 25 -> socket:[11741]
+lrwx------ 1 root root 64 окт 30 10:10 26 -> socket:[11908]
+lrwx------ 1 root root 64 окт 30 10:10 27 -> /run/log/journal/a94fcbe518324a8682d035164c9206c1/system.journal
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[8991]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> socket:[8993]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> socket:[8982]
+lrwx------ 1 root root 64 окт 30 10:10 6 -> socket:[9183]
+l-wx------ 1 root root 64 окт 30 10:10 7 -> /dev/kmsg
+lrwx------ 1 root root 64 окт 30 10:10 8 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 9 -> /dev/kmsg
+
+/proc/17/fd:
+итого 0
+
+/proc/182/fd:
+итого 0
+
+/proc/18/fd:
+итого 0
+
+/proc/192/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[9522]
+lrwx------ 1 root root 64 окт 30 10:10 10 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 11 -> anon_inode:[signalfd]
+lrwx------ 1 root root 64 окт 30 10:10 12 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 13 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[9522]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[8981]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> socket:[9102]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> socket:[9530]
+lr-x------ 1 root root 64 окт 30 10:10 6 -> /lib/udev/hwdb.bin
+lrwx------ 1 root root 64 окт 30 10:10 7 -> socket:[9534]
+lrwx------ 1 root root 64 окт 30 10:10 8 -> socket:[9535]
+lr-x------ 1 root root 64 окт 30 10:10 9 -> anon_inode:inotify
+
+/proc/19/fd:
+итого 0
+
+/proc/1/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> /dev/null
+lr-x------ 1 root root 64 окт 30 10:47 10 -> /proc/1/mountinfo
+lr-x------ 1 root root 64 окт 30 10:47 11 -> anon_inode:inotify
+lr-x------ 1 root root 64 окт 30 10:47 12 -> /proc/swaps
+lrwx------ 1 root root 64 окт 30 10:47 13 -> socket:[8969]
+lrwx------ 1 root root 64 окт 30 10:47 14 -> socket:[8971]
+lrwx------ 1 root root 64 окт 30 10:47 15 -> socket:[8973]
+lrwx------ 1 root root 64 окт 30 10:47 16 -> socket:[8974]
+lrwx------ 1 root root 64 окт 30 10:47 17 -> socket:[8975]
+lrwx------ 1 root root 64 окт 30 10:47 18 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> /dev/null
+lr-x------ 1 root root 64 окт 30 10:47 23 -> anon_inode:inotify
+lrwx------ 1 root root 64 окт 30 10:47 24 -> socket:[13490]
+lr-x------ 1 root root 64 окт 30 10:47 25 -> anon_inode:inotify
+lrwx------ 1 root root 64 окт 30 10:47 26 -> socket:[8981]
+lrwx------ 1 root root 64 окт 30 10:47 27 -> socket:[8982]
+lrwx------ 1 root root 64 окт 30 10:47 28 -> socket:[8989]
+lrwx------ 1 root root 64 окт 30 10:47 29 -> socket:[8991]
+l-wx------ 1 root root 64 окт 30 10:10 3 -> /dev/kmsg
+lrwx------ 1 root root 64 окт 30 10:47 30 -> socket:[8993]
+lrwx------ 1 root root 64 окт 30 10:47 31 -> /run/systemd/initctl/fifo
+lrwx------ 1 root root 64 окт 30 10:47 32 -> socket:[9102]
+lr-x------ 1 root root 64 окт 30 10:47 33 -> /dev/autofs
+lr-x------ 1 root root 64 окт 30 10:47 34 -> pipe:[9107]
+lrwx------ 1 root root 64 окт 30 10:47 35 -> socket:[9178]
+lrwx------ 1 root root 64 окт 30 10:47 36 -> socket:[9183]
+lrwx------ 1 root root 64 окт 30 10:47 37 -> socket:[9309]
+lrwx------ 1 root root 64 окт 30 10:47 38 -> socket:[9435]
+lrwx------ 1 root root 64 окт 30 10:47 39 -> socket:[10950]
+lrwx------ 1 root root 64 окт 30 10:47 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:47 40 -> socket:[10932]
+lrwx------ 1 root root 64 окт 30 10:47 41 -> socket:[9528]
+lrwx------ 1 root root 64 окт 30 10:47 42 -> socket:[10301]
+lrwx------ 1 root root 64 окт 30 10:47 43 -> socket:[17362]
+lrwx------ 1 root root 64 окт 30 10:47 44 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:47 45 -> socket:[10940]
+lrwx------ 1 root root 64 окт 30 10:47 46 -> socket:[11000]
+lrwx------ 1 root root 64 окт 30 10:47 47 -> socket:[11834]
+lrwx------ 1 root root 64 окт 30 10:47 49 -> socket:[11376]
+lrwx------ 1 root root 64 окт 30 10:47 5 -> anon_inode:[signalfd]
+lrwx------ 1 root root 64 окт 30 10:47 50 -> socket:[11908]
+lrwx------ 1 root root 64 окт 30 10:47 53 -> socket:[11505]
+lrwx------ 1 root root 64 окт 30 10:47 55 -> socket:[11741]
+lr-x------ 1 root root 64 окт 30 10:47 6 -> /sys/fs/cgroup/systemd
+lrwx------ 1 root root 64 окт 30 10:47 7 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:47 8 -> socket:[8966]
+lrwx------ 1 root root 64 окт 30 10:47 9 -> anon_inode:[eventpoll]
+
+/proc/21/fd:
+итого 0
+
+/proc/22/fd:
+итого 0
+
+/proc/23/fd:
+итого 0
+
+/proc/241/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[10296]
+lrwx------ 1 root root 64 окт 30 10:10 10 -> socket:[10349]
+lr-x------ 1 root root 64 окт 30 10:10 11 -> anon_inode:inotify
+lrwx------ 1 root root 64 окт 30 10:10 12 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[10296]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[10340]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> anon_inode:[signalfd]
+lrwx------ 1 root root 64 окт 30 10:10 6 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 7 -> socket:[10346]
+lrwx------ 1 root root 64 окт 30 10:10 8 -> socket:[10347]
+lrwx------ 1 root root 64 окт 30 10:10 9 -> socket:[10348]
+
+/proc/24/fd:
+итого 0
+
+/proc/25/fd:
+итого 0
+
+/proc/26/fd:
+итого 0
+
+/proc/27/fd:
+итого 0
+
+/proc/28/fd:
+итого 0
+
+/proc/29/fd:
+итого 0
+
+/proc/2/fd:
+итого 0
+
+/proc/348/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[10998]
+lrwx------ 1 root root 64 окт 30 10:10 10 -> socket:[11562]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[10998]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[10940]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> socket:[11023]
+lr-x------ 1 root root 64 окт 30 10:10 6 -> anon_inode:inotify
+lrwx------ 1 root root 64 окт 30 10:10 7 -> socket:[11024]
+lrwx------ 1 root root 64 окт 30 10:10 8 -> socket:[11025]
+lrwx------ 1 root root 64 окт 30 10:10 9 -> socket:[11026]
+
+/proc/352/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[11213]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[11213]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> /run/crond.pid
+
+/proc/357/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[11430]
+lrwx------ 1 root root 64 окт 30 10:10 10 -> socket:[11559]
+lrwx------ 1 root root 64 окт 30 10:10 11 -> socket:[11560]
+lrwx------ 1 root root 64 окт 30 10:10 12 -> socket:[11561]
+lrwx------ 1 root root 64 окт 30 10:10 13 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 14 -> /dev/input/event2
+lrwx------ 1 root root 64 окт 30 10:10 15 -> /dev/input/event3
+lrwx------ 1 root root 64 окт 30 10:10 16 -> /dev/input/event4
+lrwx------ 1 root root 64 окт 30 10:10 17 -> /dev/tty6
+lr-x------ 1 root root 64 окт 30 10:10 18 -> /run/systemd/sessions/2.ref
+lr-x------ 1 root root 64 окт 30 10:10 19 -> /run/systemd/sessions/10.ref
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[11430]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[11555]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:10 6 -> anon_inode:[signalfd]
+lr-x------ 1 root root 64 окт 30 10:10 7 -> /sys/devices/virtual/tty/tty0/active
+lrwx------ 1 root root 64 окт 30 10:10 8 -> socket:[11557]
+lrwx------ 1 root root 64 окт 30 10:10 9 -> socket:[11558]
+
+/proc/358/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+l-wx------ 1 root root 64 окт 30 10:10 1 -> /dev/null
+l-wx------ 1 root root 64 окт 30 10:10 10 -> /var/log/daemon.log
+l-wx------ 1 root root 64 окт 30 10:10 11 -> /var/log/auth.log
+l-wx------ 1 root root 64 окт 30 10:10 2 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[8989]
+lr-x------ 1 root root 64 окт 30 10:10 4 -> /proc/kmsg
+lrwx------ 1 root root 64 окт 30 10:10 5 -> socket:[11582]
+l-wx------ 1 root root 64 окт 30 10:10 6 -> /var/log/syslog
+l-wx------ 1 root root 64 окт 30 10:10 7 -> /var/log/kern.log
+l-wx------ 1 root root 64 окт 30 10:10 8 -> /var/log/debug
+l-wx------ 1 root root 64 окт 30 10:10 9 -> /var/log/messages
+
+/proc/377/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[11738]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[11738]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> /var/lib/containerd/io.containerd.metadata.v1.bolt/meta.db
+lrwx------ 1 root root 64 окт 30 10:10 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 6 -> socket:[12348]
+lrwx------ 1 root root 64 окт 30 10:10 7 -> socket:[12394]
+lrwx------ 1 root root 64 окт 30 10:10 8 -> socket:[12401]
+
+/proc/383/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[11833]
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[11833]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[12355]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> socket:[12357]
+
+/proc/384/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:10 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:10 1 -> socket:[11901]
+lrwx------ 1 root root 64 окт 30 10:10 10 -> socket:[12396]
+lrwx------ 1 root root 64 окт 30 10:10 11 -> socket:[12562]
+lrwx------ 1 root root 64 окт 30 10:10 12 -> socket:[12563]
+lrwx------ 1 root root 64 окт 30 10:10 13 -> socket:[12564]
+lrwx------ 1 root root 64 окт 30 10:10 14 -> socket:[12686]
+lrwx------ 1 root root 64 окт 30 10:10 15 -> /var/lib/docker/builder/fscache.db
+lrwx------ 1 root root 64 окт 30 10:10 16 -> /var/lib/docker/buildkit/snapshots.db
+lrwx------ 1 root root 64 окт 30 10:10 17 -> /var/lib/docker/buildkit/metadata.db
+lrwx------ 1 root root 64 окт 30 10:10 18 -> /var/lib/docker/buildkit/cache.db
+lrwx------ 1 root root 64 окт 30 10:10 2 -> socket:[11901]
+lrwx------ 1 root root 64 окт 30 10:10 3 -> socket:[12384]
+lrwx------ 1 root root 64 окт 30 10:10 4 -> socket:[12363]
+lrwx------ 1 root root 64 окт 30 10:10 5 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:10 6 -> socket:[10932]
+lrwx------ 1 root root 64 окт 30 10:10 7 -> /var/lib/docker/volumes/metadata.db
+lr-x------ 1 root root 64 окт 30 10:10 8 -> net:[4026531957]
+lrwx------ 1 root root 64 окт 30 10:10 9 -> socket:[12393]
+
+/proc/388/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:47 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 2 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 3 -> socket:[10813]
+l-wx------ 1 root root 64 окт 30 10:47 4 -> /var/lib/dhcp/dhclient.enp0s3.leases
+lrwx------ 1 root root 64 окт 30 10:47 5 -> socket:[11597]
+lrwx------ 1 root root 64 окт 30 10:47 6 -> socket:[11599]
+
+/proc/3/fd:
+итого 0
+
+/proc/400/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:47 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/null
+l-wx------ 1 root root 64 окт 30 10:47 2 -> /var/log/nginx/error.log
+lrwx------ 1 root root 64 окт 30 10:47 3 -> socket:[12029]
+l-wx------ 1 root root 64 окт 30 10:47 4 -> /var/log/nginx/access.log
+l-wx------ 1 root root 64 окт 30 10:47 5 -> /var/log/nginx/error.log
+lrwx------ 1 root root 64 окт 30 10:47 6 -> socket:[12021]
+lrwx------ 1 root root 64 окт 30 10:47 7 -> socket:[12022]
+lrwx------ 1 root root 64 окт 30 10:47 8 -> socket:[12030]
+
+/proc/401/fd:
+итого 0
+lrwx------ 1 www-data www-data 64 окт 30 10:47 0 -> /dev/null
+lrwx------ 1 www-data www-data 64 окт 30 10:47 1 -> /dev/null
+lrwx------ 1 www-data www-data 64 окт 30 10:47 10 -> anon_inode:[eventfd]
+l-wx------ 1 www-data www-data 64 окт 30 10:47 2 -> /var/log/nginx/error.log
+l-wx------ 1 www-data www-data 64 окт 30 10:47 4 -> /var/log/nginx/access.log
+l-wx------ 1 www-data www-data 64 окт 30 10:47 5 -> /var/log/nginx/error.log
+lrwx------ 1 www-data www-data 64 окт 30 10:47 6 -> socket:[12021]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 7 -> socket:[12022]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 8 -> socket:[12030]
+lrwx------ 1 www-data www-data 64 окт 30 10:47 9 -> anon_inode:[eventpoll]
+
+/proc/41/fd:
+итого 0
+
+/proc/42/fd:
+итого 0
+
+/proc/578/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:13 0 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:13 1 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:13 2 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:13 3 -> socket:[13413]
+l-wx------ 1 root root 64 окт 30 10:13 6 -> /run/systemd/sessions/2.ref
+
+/proc/583/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:13 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:13 1 -> socket:[13488]
+lr-x------ 1 root root 64 окт 30 10:13 10 -> /proc/583/mountinfo
+lr-x------ 1 root root 64 окт 30 10:13 11 -> anon_inode:inotify
+lr-x------ 1 root root 64 окт 30 10:13 12 -> /proc/swaps
+lrwx------ 1 root root 64 окт 30 10:13 13 -> socket:[13531]
+lrwx------ 1 root root 64 окт 30 10:13 14 -> socket:[13533]
+lrwx------ 1 root root 64 окт 30 10:13 15 -> socket:[13534]
+lrwx------ 1 root root 64 окт 30 10:13 16 -> socket:[13535]
+lrwx------ 1 root root 64 окт 30 10:13 2 -> socket:[13488]
+lrwx------ 1 root root 64 окт 30 10:13 21 -> socket:[13540]
+lrwx------ 1 root root 64 окт 30 10:13 22 -> socket:[13543]
+lrwx------ 1 root root 64 окт 30 10:13 23 -> socket:[13545]
+lrwx------ 1 root root 64 окт 30 10:13 24 -> socket:[13547]
+lrwx------ 1 root root 64 окт 30 10:13 3 -> socket:[13519]
+lrwx------ 1 root root 64 окт 30 10:13 4 -> anon_inode:[eventpoll]
+lrwx------ 1 root root 64 окт 30 10:13 5 -> anon_inode:[signalfd]
+lr-x------ 1 root root 64 окт 30 10:13 6 -> /sys/fs/cgroup/systemd/user.slice/user-0.slice/user@0.service
+lrwx------ 1 root root 64 окт 30 10:13 7 -> anon_inode:[timerfd]
+lrwx------ 1 root root 64 окт 30 10:13 8 -> socket:[13527]
+lrwx------ 1 root root 64 окт 30 10:13 9 -> anon_inode:[eventpoll]
+
+/proc/584/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:47 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 1 -> socket:[13488]
+lrwx------ 1 root root 64 окт 30 10:47 2 -> socket:[13488]
+lrwx------ 1 root root 64 окт 30 10:47 3 -> anon_inode:[eventfd]
+lrwx------ 1 root root 64 окт 30 10:47 4 -> anon_inode:[eventfd]
+l-wx------ 1 root root 64 окт 30 10:47 6 -> pipe:[13489]
+lrwx------ 1 root root 64 окт 30 10:47 7 -> socket:[13498]
+
+/proc/587/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:47 0 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:47 2 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:47 255 -> /dev/tty1
+
+/proc/5/fd:
+итого 0
+
+/proc/669/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:24 0 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:47 2 -> /dev/tty1
+lrwx------ 1 root root 64 окт 30 10:47 3 -> socket:[15580]
+
+/proc/670/fd:
+итого 0
+lrwx------ 1 admin admin 64 окт 30 10:47 0 -> /dev/tty1
+lrwx------ 1 admin admin 64 окт 30 10:47 1 -> /dev/tty1
+lrwx------ 1 admin admin 64 окт 30 10:47 2 -> /dev/tty1
+lrwx------ 1 admin admin 64 окт 30 10:47 255 -> /dev/tty1
+
+/proc/6/fd:
+итого 0
+
+/proc/701/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:36 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:36 1 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:36 2 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:36 3 -> socket:[17248]
+lrwx------ 1 root root 64 окт 30 10:36 4 -> socket:[17284]
+lrwx------ 1 root root 64 окт 30 10:36 5 -> /dev/ptmx
+lrwx------ 1 root root 64 окт 30 10:47 6 -> socket:[17420]
+l-wx------ 1 root root 64 окт 30 10:47 7 -> /run/systemd/sessions/10.ref
+
+/proc/703/fd:
+итого 0
+lr-x------ 1 admin admin 64 окт 30 10:36 0 -> /dev/null
+lrwx------ 1 admin admin 64 окт 30 10:36 1 -> socket:[17357]
+lr-x------ 1 admin admin 64 окт 30 10:36 10 -> /proc/703/mountinfo
+lr-x------ 1 admin admin 64 окт 30 10:36 11 -> anon_inode:inotify
+lr-x------ 1 admin admin 64 окт 30 10:36 12 -> /proc/swaps
+lrwx------ 1 admin admin 64 окт 30 10:36 13 -> socket:[17393]
+lrwx------ 1 admin admin 64 окт 30 10:36 14 -> socket:[17395]
+lrwx------ 1 admin admin 64 окт 30 10:36 15 -> socket:[17396]
+lrwx------ 1 admin admin 64 окт 30 10:36 16 -> socket:[17397]
+lrwx------ 1 admin admin 64 окт 30 10:36 2 -> socket:[17357]
+lrwx------ 1 admin admin 64 окт 30 10:36 21 -> socket:[17402]
+lrwx------ 1 admin admin 64 окт 30 10:36 22 -> socket:[17405]
+lrwx------ 1 admin admin 64 окт 30 10:36 23 -> socket:[17407]
+lrwx------ 1 admin admin 64 окт 30 10:36 24 -> socket:[17409]
+lrwx------ 1 admin admin 64 окт 30 10:36 3 -> socket:[17378]
+lrwx------ 1 admin admin 64 окт 30 10:36 4 -> anon_inode:[eventpoll]
+lrwx------ 1 admin admin 64 окт 30 10:36 5 -> anon_inode:[signalfd]
+lr-x------ 1 admin admin 64 окт 30 10:36 6 -> /sys/fs/cgroup/systemd/user.slice/user-1001.slice/user@1001.service
+lrwx------ 1 admin admin 64 окт 30 10:36 7 -> anon_inode:[timerfd]
+lrwx------ 1 admin admin 64 окт 30 10:36 8 -> socket:[17387]
+lrwx------ 1 admin admin 64 окт 30 10:36 9 -> anon_inode:[eventpoll]
+
+/proc/704/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:47 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 1 -> socket:[17357]
+lrwx------ 1 root root 64 окт 30 10:47 2 -> socket:[17357]
+lrwx------ 1 root root 64 окт 30 10:47 3 -> anon_inode:[eventfd]
+lrwx------ 1 root root 64 окт 30 10:47 4 -> anon_inode:[eventfd]
+l-wx------ 1 root root 64 окт 30 10:47 6 -> pipe:[17358]
+lrwx------ 1 root root 64 окт 30 10:47 7 -> socket:[17365]
+
+/proc/710/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:47 0 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 11 -> /dev/ptmx
+lrwx------ 1 root root 64 окт 30 10:47 12 -> /dev/ptmx
+lrwx------ 1 root root 64 окт 30 10:47 2 -> /dev/null
+lrwx------ 1 root root 64 окт 30 10:47 3 -> socket:[17248]
+lrwx------ 1 root root 64 окт 30 10:47 4 -> socket:[17284]
+lrwx------ 1 root root 64 окт 30 10:47 5 -> socket:[17419]
+lr-x------ 1 root root 64 окт 30 10:47 6 -> pipe:[17425]
+l-wx------ 1 root root 64 окт 30 10:47 7 -> /run/systemd/sessions/10.ref
+l-wx------ 1 root root 64 окт 30 10:47 8 -> pipe:[17425]
+lrwx------ 1 root root 64 окт 30 10:47 9 -> /dev/ptmx
+
+/proc/711/fd:
+итого 0
+lrwx------ 1 admin admin 64 окт 30 10:36 0 -> /dev/pts/0
+lrwx------ 1 admin admin 64 окт 30 10:36 1 -> /dev/pts/0
+lrwx------ 1 admin admin 64 окт 30 10:36 2 -> /dev/pts/0
+lrwx------ 1 admin admin 64 окт 30 10:47 255 -> /dev/pts/0
+
+/proc/71/fd:
+итого 0
+
+/proc/720/fd:
+итого 0
+
+/proc/72/fd:
+итого 0
+
+/proc/73/fd:
+итого 0
+
+/proc/74/fd:
+итого 0
+
+/proc/758/fd:
+итого 0
+
+/proc/75/fd:
+итого 0
+
+/proc/784/fd:
+итого 0
+
+/proc/786/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:47 0 -> /dev/pts/0
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/pts/0
+lrwx------ 1 root root 64 окт 30 10:47 2 -> /dev/pts/0
+lr-x------ 1 root root 64 окт 30 10:47 3 -> pipe:[19186]
+l-wx------ 1 root root 64 окт 30 10:47 4 -> pipe:[19186]
+lrwx------ 1 root root 64 окт 30 10:47 5 -> socket:[19206]
+lrwx------ 1 root root 64 окт 30 10:47 6 -> socket:[19209]
+lrwx------ 1 root root 64 окт 30 10:47 8 -> socket:[19212]
+
+/proc/787/fd:
+итого 0
+lrwx------ 1 root root 64 окт 30 10:47 0 -> /dev/pts/0
+lrwx------ 1 root root 64 окт 30 10:47 1 -> /dev/pts/0
+lrwx------ 1 root root 64 окт 30 10:47 10 -> /dev/pts/0
+l-wx------ 1 root root 64 окт 30 10:47 2 -> /home/admin/catscale_out/jury-20241030-1047-console-error-log.txt
+lr-x------ 1 root root 64 окт 30 10:47 255 -> /home/admin/Cat-Scale.sh
+
+/proc/79/fd:
+итого 0
+
+/proc/7/fd:
+итого 0
+
+/proc/839/fd:
+итого 0
+lr-x------ 1 root root 64 окт 30 10:47 0 -> pipe:[25601]
+l-wx------ 1 root root 64 окт 30 10:47 1 -> /home/admin/catscale_out/Process_and_Network/jury-20241030-1047-process-fd-links.txt
+l-wx------ 1 root root 64 окт 30 10:47 2 -> /dev/null
+
+/proc/8/fd:
+итого 0
+
+/proc/9/fd:
+итого 0
